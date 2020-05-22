@@ -1,4 +1,8 @@
 This is an introductory note for this Zettelkasten. This is the archive I am planning to use for my PhD research into Intellectual Freedom, Constituent Power, and the Politics of Recognition.
 
-Testing links [[202005211734]]
+TOC notes:
+
+Spinoza… 	[[Spinoza - General]]
+Philosophy…    [[Philosophy - TOC]]
+Hegel… 		[[Hegel - General]]
 
