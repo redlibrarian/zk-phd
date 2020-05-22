@@ -1,0 +1,12 @@
+G.W.F. Hegel (1770-1831)
+====================
+
+What I am most interested in with Hegel is his understanding of knowledge as socially and historically constructed, because this has huge importance on any concept of [[Intellectual Freedom]], but especially one built on an individualistic [[Politics of Recognition]], itself relying on an understanding of Hegel’s conception of [[self-development]] or Bildung. Hegel’s epistemology is often seen as either completing or surpassing Kant’s. [[Kant]], provoked by Hume’s empiricism and scepticism (which tried to show that knowledge was impossible), tried to recuperate or salvage the concepts of metaphysics and knowledge. Hume’s pure empiricism denies any metaphysics, since knowledge can only come from sense-experience, and by definition a metaphysics is not accessible by the senses. Kant’s Critique of Pure Reason sought to show that some knowledge was available to us independently of sense-experience, which implied some kind of metaphysics. Rather than the general metaphysics of the Greeks - Plato, Aristotle, the Stoics - or the Early Modern rationalists - Descartes, Leibniz, Spinoza - Kant’s metaphysics was much more restricted. It argued for two worlds: a phenomenological world accessible by the sense which we can know; and a numerological world not accessible by sense-experience. However, for Kant, our knowledge is structured by (a priori) categories and so our knowledge can only be knowledge of phenomena as ordered by the categories, rather than the “things in the themselves”. Now, there are three main readings of Hegel following on from Kant’s work: a “traditional metaphysical” reading, a Kantian reading, and a post-Kantian or anti-metaphysical reading. 
+
+The traditional metaphysical reading sees Hegel’s work as positing and describing an actual Absolute Spirit as God working out its own self-knowledge through the process of history. The Kantian reading sees Hegel as more or less subscribing to Kant’s metaphysics, but working out the details of the categories, etc. The post-Kantian reading argues that Hegel rejects even the limited metaphysics of Kant in favour of a conceptual realism. [[Charles Taylor]] subscribes to the traditional metaphysical view.
+
+[[Hegel - Theory of Knowledge]]
+
+[[Hegel - Phenomenology of Spirit]]
+[[Hegel - Encyclopedia Logic]]
+[[Hegel - Science of Logic]]
