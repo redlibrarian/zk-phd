@@ -1,0 +1,5 @@
+<!— References —>
+
+[#jameson-valences]: Fredric Jameson (2009):  _Valences of the Dialectic_, Verso.
+
+[#jameson-variations]: Fredric Jameson (2010):  _The Hegel Variations: On the Phenomenology of Spirit_, Verso.
