@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CompileFolder</key>
-	<string>/Users/redlibrarian/Documents/zk-phd</string>
+	<string>/Users/redlibrarian/Documents/zk-phd/diss/DissertationText.tex</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>binderSplitFrames</key>
@@ -19,6 +19,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>108F8C1F-D0A4-437D-9D34-0813D51AE881</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3B92F779-7EB4-45F7-91FD-D46821F08C5B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -39,6 +44,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>854F9A2B-AAA9-4CA1-B904-D8E7D4712A16</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>8E794353-0B5A-4A3D-9691-8F861FFB8E91</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -90,7 +100,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 141 736 672 0 0 1440 877 </string>
+	<string>78 156 736 672 0 0 1440 877 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>

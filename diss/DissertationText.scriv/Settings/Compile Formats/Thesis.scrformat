@@ -744,15 +744,82 @@
         <MetaData>
             <Value IsProjectMetaDataPlaceholder="Yes"/>
             <Value Key="Base Header Level 2"><![CDATA[]]></Value>
-            <Value Key="BibText bibliography.bib"><![CDATA[]]></Value>
+            <Value Key="BibTex Bibliography.bib"><![CDATA[]]></Value>
             <Value Key="latex footer diss-footer"><![CDATA[]]></Value>
-            <Value Key="Bibliostyle harvard"><![CDATA[]]></Value>
+            <Value Key="Bibliostyle apacite"><![CDATA[]]></Value>
             <Value Key="Author Sam Popowich"><![CDATA[]]></Value>
             <Value Key="Quotes language English"><![CDATA[]]></Value>
             <Value Key="latex input diss-input"><![CDATA[]]></Value>
         </MetaData>
         <AddClosingHashesToTitles>Yes</AddClosingHashesToTitles>
-        <LaTeXDocumentClass>Memoir</LaTeXDocumentClass>
+        <LaTeXDocumentClass>Custom</LaTeXDocumentClass>
+        <LaTeXBeginDocument><![CDATA[\documentclass[12pt,a4paper,oneside,bibtotocnumbered,liststotocnumbered,pointlessnumbers,DIV=calc,BCOR=16mm]{scrreprt}
+
+% ==========================================
+% = My modifications to the LaTeX template =
+% ==========================================
+\usepackage[nosectionbib]{apacite}
+
+%use line breaks instead of indentation
+\usepackage[parfill]{parskip}
+
+\usepackage{natbib}
+\usepackage[left=3.5cm, right=2cm, bottom=3.5cm]{geometry}
+\geometry{a4paper}
+
+\usepackage{multirow}
+\usepackage{tabularx}
+
+% Use Helvetica 
+\usepackage{helvet}
+% Euro-Symbol
+\usepackage{textcomp}
+\usepackage{appendix}
+
+
+\usepackage{hyperref}
+
+% Use utf-8 encoding for foreign characters
+\usepackage[utf8]{inputenc}
+
+% Surround parts of graphics with box
+\usepackage{boxedminipage}
+
+% Package for including code in the document
+\usepackage{listings}
+
+% This is now the recommended way for checking for PDFLaTeX:
+\usepackage{ifpdf}
+
+\ifpdf
+\usepackage[pdftex]{graphicx}
+\else
+\usepackage{graphicx}
+\fi
+\title{ untitled }
+
+\author{  }
+
+\linespread{1.5}
+
+\begin{document}
+
+
+% TOC
+\pagenumbering{roman}
+\tableofcontents
+\pagebreak
+
+\pagenumbering{arabic}]]></LaTeXBeginDocument>
+        <LaTeXFooter><![CDATA[% ============
+% = Appendix =
+% ============
+
+\pagebreak
+\appendix
+\bibliographystyle{apacite}
+\bibliography{literature}
+]]></LaTeXFooter>
     </MMD>
     <EBookSettings>
         <BaseFormat><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf100
