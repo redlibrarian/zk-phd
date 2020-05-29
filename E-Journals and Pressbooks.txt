@@ -1,0 +1,2 @@
+- Check when we have DNS access to informationethics.ca
+- 
