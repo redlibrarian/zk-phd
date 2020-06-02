@@ -1,4 +1,4 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{29}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -26,6 +26,18 @@ Roy Bhaskar.
   Human Sciences}.
 \newblock Routledge, third edition, 1998.
 
+\bibitem[Brean(2019)]{brean-2019}
+Joseph Brean.
+\newblock Meghan murphy, the woman behind trans wars breaking out at the public
+  library.
+\newblock \emph{National Post}, 2019.
+
+\bibitem[CBC(2019)]{cbc-vpl}
+CBC.
+\newblock Vancouver pride bans library from parade over event featuring
+  'transphobic' activist.
+\newblock \emph{CBC News}, 2019.
+
 \bibitem[CFLA(2016)]{cfla-if}
 CFLA.
 \newblock Statement on intellectual freedom and libraries, 2016.
@@ -52,6 +64,12 @@ Dee Garrison.
 Michael Gorman.
 \newblock \emph{Our Enduring Values: Librarianship in the 21st Century}.
 \newblock ALA, 2000.
+
+\bibitem[Hennig(2019)]{cbc-ubc}
+Clare Hennig.
+\newblock Ubc barred from vancouver pride parade for hosting controversial
+  speaker.
+\newblock \emph{CBC News}, 2019.
 
 \bibitem[Hutchins(2017)]{hutchins-2017}
 Aaron Hutchins.
@@ -125,6 +143,14 @@ TPL.
 \bibitem[TPL({\natexlab{b}})]{tpl-revisions}
 TPL.
 \newblock Community and event space rental policy -- revisions, {\natexlab{b}}.
+
+\bibitem[VPL()]{vpl-values}
+VPL.
+\newblock About the library.
+
+\bibitem[VPL(2019)]{vpl-policy}
+VPL.
+\newblock Public meeting rooms and facilities use, 2019.
 
 \bibitem[Yorio and Peet(2018)]{yorio-peet-2018}
 Kara Yorio and Lisa Peet.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  2 JUN 2020 11:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  2 JUN 2020 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -668,36 +668,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
+
+Package natbib Warning: Citation `bonfert-2020' on page 2 undefined on input li
+ne 57.
+
 [2]
 Overfull \hbox (3.985pt too wide) in paragraph at lines 61--62
 []\OT1/cmr/m/n/12 Thes is the con-text in which the most re-cent round of chal-
 lenges to IF-absolutism
  []
 
-[3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 73.
- [4] (./DissText-Latex.bbl [5
+(Font)              <5> on input line 71.
+[3] [4] [5] (./DissText-Latex.bbl [6
 
 
-]) [6]
+])
+
+Package natbib Warning: There were undefined citations.
+
+[7]
 \tf@toc=\write5
 \openout5 = `DissText-Latex.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (./DissText-Latex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `DissText-Latex.out' has not changed.
-(rerunfilecheck)             Checksum: 273A271D6C9082DFEF3CAB71F958ED7B;247.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
+(rerunfilecheck)             Checksum: F892D1EED1DF84B8F9682BD881F80905;334.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 10053 strings out of 480608
- 146801 string characters out of 5903631
- 456177 words of memory out of 5000000
- 25794 multiletter control sequences out of 15000+600000
+ 10078 strings out of 480608
+ 147176 string characters out of 5903631
+ 463407 words of memory out of 5000000
+ 25811 multiletter control sequences out of 15000+600000
  539117 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,11n,37p,1752b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -709,10 +716,10 @@ sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/
 texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on DissText-Latex.pdf (8 pages, 123950 bytes).
+Output written on DissText-Latex.pdf (9 pages, 133457 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 211 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
