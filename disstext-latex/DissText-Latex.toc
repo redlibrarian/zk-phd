@@ -1,0 +1,13 @@
+\contentsline {chapter}{Contents}{ii}{section*.1}%
+\contentsline {chapter}{\chapternumberline {1}1. Introduction: Resurgence of the People}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Two Canoes}{1}{section.1.1}%
+\contentsline {chapter}{\chapternumberline {2}2. Factories of Subjectivity}{2}{chapter.2}%
+\contentsline {chapter}{\chapternumberline {3}3. Free, Informed Choice}{3}{chapter.3}%
+\contentsline {chapter}{\chapternumberline {4}4. The Dialectic of Freedom and Virtue}{4}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {5}5. The Right Gender}{5}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {6}6. The Right Race}{6}{chapter.6}%
+\contentsline {chapter}{\chapternumberline {7}7. The Right Class}{7}{chapter.7}%
+\contentsline {chapter}{\chapternumberline {8}8. Conclusion: Une cultura ancora offensiva}{8}{chapter.8}%
+\contentsline {part}{Appendices}{9}{section*.3}%
+\contentsline {section}{Appendix}{10}{section*.4}%
+\contentsline {chapter}{Bibliography}{11}{appendix*.5}%
