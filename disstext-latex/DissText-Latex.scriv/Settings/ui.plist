@@ -135,7 +135,17 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>07B28FC5-D398-4945-823E-69C4EB66C265</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>19454B2C-2696-408E-8B82-B78117357709</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3B23BC0F-40DE-4366-8EB5-591F1F467A76</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -179,7 +189,17 @@
 			<key>Row</key>
 			<integer>0</integer>
 		</dict>
+		<key>8C5F5241-42B8-4B7E-ABA1-056453D35861</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>928C1791-BF6F-4239-9F58-323FE82ED94D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>95258D90-2EC9-4CF4-8904-7386EC17AD3C</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -194,7 +214,17 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>A96B98A3-476D-4BED-AF69-F07C5FD90B2A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>B0417A1B-D617-4CBD-900A-14A6AB12C289</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>B28F0494-DC95-4B9E-8948-52AB7461DB54</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -217,6 +247,11 @@
 			<integer>0</integer>
 		</dict>
 		<key>D2CF9B80-9FA0-4746-9A82-508A32070B93</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F0CEA3B6-B391-4026-BE00-B5FC08ABACB9</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -374,7 +409,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>289 153 1199 719 0 0 1440 877 </string>
+	<string>214 158 1199 719 0 0 1440 877 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>

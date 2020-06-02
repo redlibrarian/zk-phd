@@ -1,13 +1,134 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{24}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Jameson(2009)]{Jameson-valences}
-Fredric Jameson.
-\newblock \emph{Valences of the Dialectic}.
-\newblock Verso, 2009.
+\bibitem[Association(1974)]{cla-if}
+Canadian~Library Association.
+\newblock Position statement on intellectual freedom, 1974.
+
+\bibitem[Beauchamp(2018)]{Beauchamp-2018}
+Zack Beauchamp.
+\newblock Milo yiannopoulos's collapse shows that no-platforming can work,
+  2018.
+
+\bibitem[Berman(1971)]{berman-1971}
+Sanford Berman, editor.
+\newblock \emph{Prejudices and Antipathies: A Tract on the LC Subject Heads
+  Concerning People}.
+\newblock Scarecrow Press, 1971.
+
+\bibitem[Bhaskar(1998)]{bhaskar-1979}
+Roy Bhaskar.
+\newblock \emph{The Possibility of Naturalism: A Philosophical Critique of the
+  Human Sciences}.
+\newblock Routledge, third edition, 1998.
+
+\bibitem[CFLA(2016)]{cfla-if}
+CFLA.
+\newblock Statement on intellectual freedom and libraries, 2016.
+
+\bibitem[Chou and Pho(2018)]{chou-pho-2018}
+Rose~L. Chou and Annie Pho, editors.
+\newblock \emph{Pushing the Margins: Women of Color and Intersectionality in
+  LIS}.
+\newblock Library Juice Press, 2018.
+
+\bibitem[Craggs(2019)]{craggs-2019}
+Samantha Craggs.
+\newblock Former leader of white supremacy group works in hamilton's it office,
+  sparking concerns, 2019.
+
+\bibitem[Garrison(1972)]{garrison-1972}
+Dee Garrison.
+\newblock The tender technicians: The feminization of public librarianship,
+  1876-1905.
+\newblock \emph{Journal of Social History}, 6\penalty0 (2):\penalty0 131--159,
+  1972.
+
+\bibitem[Gorman(2000)]{gorman-2000}
+Michael Gorman.
+\newblock \emph{Our Enduring Values: Librarianship in the 21st Century}.
+\newblock ALA, 2000.
+
+\bibitem[Hutchins(2017)]{hutchins-2017}
+Aaron Hutchins.
+\newblock What really happened at laurier university, 2017.
+
+\bibitem[IFLA(1999)]{ifla-if}
+IFLA.
+\newblock Ifla statement on libraries and intellectual freedom, 1999.
+
+\bibitem[Lew and Yousefi(2017)]{lew-yousefi-2017}
+Shirley Lew and Baharak Yousefi, editors.
+\newblock \emph{Feminists Among Us: Resistance and Advocacy in Library
+  Leadership}.
+\newblock Library Juice Press, 2017.
+
+\bibitem[Lewis(2008)]{lewis-2008}
+Alison Lewis, editor.
+\newblock \emph{Questioning Library Neutrality: Essays from Progressive
+  Librarian}.
+\newblock Library Juice Press, 2008.
+
+\bibitem[MacKinnon(2018)]{mackinnon-2018}
+Peter MacKinnon.
+\newblock \emph{University Commons Divided: Exploring Debate and Dissent on
+  Campus}.
+\newblock University of Toronto Press, 2018.
+
+\bibitem[Olson(Springer)]{olson-2002}
+H.A. Olson.
+\newblock \emph{The Power to Name: Locating the Limits of Subject
+  Representation in Libraries}.
+\newblock 2002, Springer.
+
+\bibitem[Peterson(2016)]{peterson-2016}
+Jordan Peterson.
+\newblock The right to be politically incorrect, 2016.
+
+\bibitem[Popowich(2019)]{popowich-2019}
+Sam Popowich.
+\newblock \emph{Confronting the Democratic Discourse of Librarianship: A
+  Marxist Approach}.
+\newblock Library Juice Press, 2019.
+
+\bibitem[Quan(2015)]{quan-2015}
+Douglas Quan.
+\newblock Ex-ontario teacher is international director of american 'white
+  nationalist' group that influenced dylann roof, 2015.
+
+\bibitem[Samek(2001)]{samek-if1}
+Toni Samek.
+\newblock \emph{Intellectual Freedom and Social Responsibility in American
+  Librarianship, 1967-1974}.
+\newblock McFarland, 2001.
+
+\bibitem[Schlesselman-Tarango(2017)]{schlesselman-tarango-2017}
+Gina Schlesselman-Tarango, editor.
+\newblock \emph{Topographies of Whiteness: Mapping Whiteness in Library and
+  Information Science}.
+\newblock Library Juice Press, 2017.
+
+\bibitem[Shakeri(2017)]{shakeri-2017}
+Sima Shakeri.
+\newblock Toronto public library allows neo-nazi memorial for barbara kulaszka
+  to go ahead, 2017.
+
+\bibitem[TPL({\natexlab{a}})]{tpl-kulaszka}
+TPL.
+\newblock Statement from city librarian vickery bowles on last evening's event
+  at richview library, 2017 {\natexlab{a}}.
+
+\bibitem[TPL({\natexlab{b}})]{tpl-revisions}
+TPL.
+\newblock Community and event space rental policy -- revisions, {\natexlab{b}}.
+
+\bibitem[Yorio and Peet(2018)]{yorio-peet-2018}
+Kara Yorio and Lisa Peet.
+\newblock Free speech debate erupts with ala's inclusion of hate groups in
+  revision of bill of rights interpretation, 2018.
 
 \end{thebibliography}

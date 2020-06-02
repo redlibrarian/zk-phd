@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-02 08:54:09 -0600" ModID="0A06271B-775E-40E8-8AA3-293D95B25382">
+<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-02 13:38:54 -0600" ModID="AE878D72-C7BB-45D8-BF84-18CD636042F5">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
             <Title>Non-Fiction Format for LaTeX</Title>
@@ -31,76 +31,55 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="928C1791-BF6F-4239-9F58-323FE82ED94D" Type="Text" Created="2020-06-02 08:51:04 -0600" Modified="2020-06-02 08:51:22 -0600">
-                            <Title>Two Canoes</Title>
+                        <BinderItem UUID="B28F0494-DC95-4B9E-8948-52AB7461DB54" Type="Text" Created="2020-06-02 09:10:10 -0600" Modified="2020-06-02 13:38:54 -0600">
+                            <Title>The Politics of Intellectual Freedom</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>39,0</TextSelection>
+                                <TextSelection>7352,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="6370D150-AE68-46EE-8237-BC1AC338770D" Type="Folder" Created="2020-05-29 13:04:46 -0600" Modified="2020-06-02 08:53:38 -0600">
                     <Title>Factories of Subjectivity</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="3B23BC0F-40DE-4366-8EB5-591F1F467A76" Type="Folder" Created="2020-05-29 13:05:39 -0600" Modified="2020-06-02 08:53:42 -0600">
                     <Title>Free, Informed Choice</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="07B28FC5-D398-4945-823E-69C4EB66C265" Type="Folder" Created="2020-05-29 13:05:50 -0600" Modified="2020-06-02 08:53:47 -0600">
                     <Title>The Dialectic of Freedom and Virtue</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="F0CEA3B6-B391-4026-BE00-B5FC08ABACB9" Type="Folder" Created="2020-05-29 13:06:04 -0600" Modified="2020-06-02 08:53:51 -0600">
                     <Title>The Right Gender</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A96B98A3-476D-4BED-AF69-F07C5FD90B2A" Type="Folder" Created="2020-05-29 13:06:15 -0600" Modified="2020-06-02 08:53:56 -0600">
                     <Title>The Right Race</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="8C5F5241-42B8-4B7E-ABA1-056453D35861" Type="Folder" Created="2020-05-29 13:06:23 -0600" Modified="2020-06-02 08:54:02 -0600">
                     <Title>The Right Class</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="95258D90-2EC9-4CF4-8904-7386EC17AD3C" Type="Folder" Created="2020-05-29 13:06:32 -0600" Modified="2020-06-02 08:54:06 -0600">
                     <Title>Conclusion: Une cultura ancora offensiva</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
@@ -244,7 +223,6 @@
                     <Title>Appendices</Title>
                     <MetaData>
                         <SectionType>D15D2BD9-BAD6-4B8A-BAC3-ACEAC402D0BA</SectionType>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -252,9 +230,6 @@
                     <Children>
                         <BinderItem UUID="C4227961-9DD6-4014-BDE8-E2EA488632AE" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
                             <Title>Appendix</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -465,6 +440,15 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="928C1791-BF6F-4239-9F58-323FE82ED94D" Type="Text" Created="2020-06-02 08:51:04 -0600" Modified="2020-06-02 08:51:22 -0600">
+                    <Title>Two Canoes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>39,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -558,11 +542,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-06-03 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="15" Characters="105" Date="2020-06-02 08:15:34 -0600"/>
+        <PreviousSession Words="1572" Characters="10476" Date="2020-06-02 08:15:34 -0600"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-06-02 08:15:35 -0600">
-        <DraftWordCount>15</DraftWordCount>
-        <DraftCharCount>105</DraftCharCount>
+        <DraftWordCount>1572</DraftWordCount>
+        <DraftCharCount>10476</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>-3</OtherCharCount>
     </RecentWritingHistory>
