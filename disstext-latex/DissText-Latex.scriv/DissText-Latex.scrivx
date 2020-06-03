@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-02 15:31:23 -0600" ModID="8C5FD2B0-396F-48D6-BDD7-94768CA4811B">
+<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-03 08:43:55 -0600" ModID="4D75C129-B9EF-4CD7-B744-ABED9E824127">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
             <Title>Non-Fiction Format for LaTeX</Title>
@@ -30,44 +30,6 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <Children>
-                        <BinderItem UUID="B28F0494-DC95-4B9E-8948-52AB7461DB54" Type="Text" Created="2020-06-02 09:10:10 -0600" Modified="2020-06-02 15:12:09 -0600">
-                            <Title>The Politics of Intellectual Freedom</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>13174,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="CF0040EF-73FF-4DED-8179-7B3DE5A1391C" Type="Text" Created="2020-06-02 14:14:44 -0600" Modified="2020-06-02 15:31:23 -0600">
-                            <Title>Liberal Philosophy and Information Ethics</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="3CD8E48B-6EC3-4D02-B050-5B0804823CD8" Type="Text" Created="2020-06-02 14:13:50 -0600" Modified="2020-06-02 14:14:13 -0600">
-                            <Title>Canadian Multiculturalism and the Politics of Recognition</Title>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="75BB1566-406A-4A6B-8973-17A46AB2D2BE" Type="Text" Created="2020-06-02 14:15:08 -0600" Modified="2020-06-02 14:15:24 -0600">
-                            <Title>Individualism and Idealism</Title>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="DD0999B7-C097-46DF-8489-02F562CEE538" Type="Text" Created="2020-06-02 14:15:27 -0600" Modified="2020-06-02 14:15:38 -0600">
-                            <Title>[Original Contribution and Outline]</Title>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
                 </BinderItem>
                 <BinderItem UUID="6370D150-AE68-46EE-8237-BC1AC338770D" Type="Folder" Created="2020-05-29 13:04:46 -0600" Modified="2020-06-02 08:53:38 -0600">
                     <Title>Factories of Subjectivity</Title>
@@ -476,6 +438,51 @@
                         <TextSelection>39,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="B28F0494-DC95-4B9E-8948-52AB7461DB54" Type="Text" Created="2020-06-02 09:10:10 -0600" Modified="2020-06-02 15:12:09 -0600">
+                    <Title>The Politics of Intellectual Freedom</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,13174</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CF0040EF-73FF-4DED-8179-7B3DE5A1391C" Type="Text" Created="2020-06-02 14:14:44 -0600" Modified="2020-06-02 15:31:23 -0600">
+                    <Title>Liberal Philosophy and Information Ethics</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1927</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3CD8E48B-6EC3-4D02-B050-5B0804823CD8" Type="Text" Created="2020-06-02 14:13:50 -0600" Modified="2020-06-02 14:14:13 -0600">
+                    <Title>Canadian Multiculturalism and the Politics of Recognition</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="75BB1566-406A-4A6B-8973-17A46AB2D2BE" Type="Text" Created="2020-06-02 14:15:08 -0600" Modified="2020-06-02 14:15:24 -0600">
+                    <Title>Individualism and Idealism</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DD0999B7-C097-46DF-8489-02F562CEE538" Type="Text" Created="2020-06-02 14:15:27 -0600" Modified="2020-06-02 14:15:38 -0600">
+                    <Title>[Original Contribution and Outline]</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D0F8896A-150E-483B-A551-2FC495F666F2" Type="Text" Created="2020-06-02 17:41:52 -0600" Modified="2020-06-02 19:30:41 -0600">
+                    <Title>Diversity, Minority Rights, and the Politics of Recognition</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,4224</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -568,14 +575,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-06-03 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2280" Characters="15206" Date="2020-06-02 08:15:34 -0600"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-06-04 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-06-03 06:34:05 -0600"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-06-02 08:15:35 -0600">
-        <DraftWordCount>2280</DraftWordCount>
-        <DraftCharCount>15206</DraftCharCount>
+    <RecentWritingHistory Date="2020-06-03 00:00:00 -0600">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>-3</OtherCharCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>BB89721F-361D-4DC6-B9DC-70E2BE85968E</TemplateFolderUUID>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
