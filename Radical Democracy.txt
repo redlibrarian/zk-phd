@@ -1,0 +1,13 @@
+Title: Radical Democracy
+
+Dahlberg and Siapera identify three formulations of radical democracy: the “agonist” (coming out of Chantal Mouffe), the “deliberative” (coming out of Habermas, which they argue is the best-known), and “autonomist” - “steeped in left-communist and critical Marxist traditions”, coming out of Hard & Negri, Cornelius Castoriadis, and Claude Lefort. \cite[9-10]{DahlbergSiapera2007}. [[Paolo Virno]] is also often included in the autonomist “radical democratic” tendency \cite{Virno2004, Virno2015}. 
+
+<!— References —>
+
+[#DahlbergSiapera2007]: Lincoln Dahlberg and Eugenia Siapera (Hrsg.)
+ (2007):  _Radical Democracy and the Internet: Interrogating Theory and Practice_, Palgrave Macmillan.
+ 
+ [#Virno2004]: Paolo Virno (2004):  _A Grammar of the Multitude_, Semiotext(e).
+
+[#Virno2015]: Paolo Virno (2015):  _When the Word Becomes Flesh_, Semiotext(e).
+

@@ -1,0 +1,16 @@
+Title: Paolo Virno - A Grammar of the Multitude.
+
+Virno sees Spinoza as the “father” of the “multitude” and Hobbes as the “father” of “the people”. “The people” was the term/concept that emerged victorious from the political struggles of the 17th century. “Multitudo” was the loser.
+
+Virno writes that: “For Spinoza, the multitudo indicates a plurality which persists as such in the public scene, in collective action, in the handling of communal affairs, without converging into a One, without evaporating within a centripetal form of motion. Multitude is the form of social and political existence for the many, seen as being many: a permanent form, not an episodic or interstitial form.” \cite[21]{Virno2004}.
+
+Virno argues that many contemporary political phenomena are only comprehensible if they are conceived as “originating from the mode of being of the many” [22]. I think this marks constituent power as different from a politics of difference [Kymlicka]. 
+ 
+Virno approached the multitude by way of Hobbes, its enemy. For Hobbes, a people goes with a State: “if there is a State, then there are people. In the absence of the State, there are no people. In the De Cive, in which the horror of the multitude is exposed far and wide, we read: “The People is somewhat that is one, having one will, and to whom one action may be attributed.” [22]. I think this is where the critique of minority rights comes in. Thinking of things as minority rights begins from the idea that there is “one” (majority) with an exception (the minority, which is also one). There is one people, and then there are exceptions, recognized by the State. The politics of recognition only works with the concept of “a people”. A constituent power version will not require the formulation of a people, then divided into majority and minority, because the multitude is an unresolvable plurality. I think Dean Spade’s critique of trans rights fits with this: trans rights recuperates trans lives (the multitude) into the State administration. “Equal rights” is one-size-fits-all, forged for a single unified people.
+
+“In liberal thought, the uneasiness provoked by the ‘many’ is toned down by means of having recourse to the pairing of the terms public-private. The multitude, which is the polar opposite of the people, takes on the slightly ghostly and mortifying features of the so-called private.” [23] “‘Private’ signifies not only something personal, not only something which concerns the inner life of this person or that; private signifies, above all, deprived of: deprived of a voice, deprived of a public presence. In liberal thought, the multitude survives as a private dimension.” [24]. This, I think, is at the heart of the classical liberal objection to multiculturalism: cultural affairs are private; they should not enter into discussion of public policy or public life, and they do not be defended by rights because rights are by definition about public participation and engagement.
+
+
+<!— References —>
+
+[#Virno2004]: Paolo Virno (2004):  _A Grammar of the Multitude_, Semiotext(e).
