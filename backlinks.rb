@@ -14,4 +14,4 @@ patterns.each do |pattern,value|
   end
 end
 
-puts patterns.select { |pattern,value| value == :not_found }
+pp patterns.select { |pattern,value| value == :not_found }
