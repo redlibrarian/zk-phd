@@ -13,7 +13,7 @@ Contents [[Outline Writeup June 26 2020]]
 
 1. [[Introduction]]: Resurgence of the People
 	- The political context of Canadian multiculturalism/politics of recognition theory.
-	- Literature review… [[Canada Multiculturalism 1990s]]
+	- Literature review… [[Canada multiculturalism 1990s]]
 	- The need for a Marxist critique of the politics of recognition (draw on Singh and radical democracy here). Identity politics… [[Radical Democracy]]
 	- Two strands of that critique: of individualism and of idealism.
 		- [[Gramsci - Intellectuals]]
@@ -23,6 +23,7 @@ Contents [[Outline Writeup June 26 2020]]
 Part One: Towards a Marxist Politics of Recognition
 
 2. [[Factories of Subjectivity]]: Theories of Identity and the Politics of Recognition
+	- [[Philosophy of Recognition]]
 3. [[Free, Informed Choice]]:: Constitutional Theory and Intellectual Freedom
 4. [[The Dialectic of Virtue and Fortune]]: A Negrean Critique of Intellectual Freedom
 
@@ -36,3 +37,7 @@ Introduction… [[The Politics of Intellectual Freedom]]
 7. [[The Right Class]]: Workplace Speech, Precarity, and Crisis
 
 8. [[Conclusion]]: Una cultura ancora offensiva
+
+
+
+Link back to [[Overall Structure Note]]
