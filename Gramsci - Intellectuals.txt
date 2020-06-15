@@ -1,0 +1,9 @@
+“Since these categories of traditional intellectuals experience through an “esprit de corps” their uninterrupted historical continuity and their special qualification, they thus put themselves forward as autonomous and independent of the dominant social group. This self-assessment is not without consequences in the ideological and political field, consequences of wide-ranging import. The whole of idealist philosophy can easily be connected with this position assumed by the social complex of intellectuals and can be defined as the expression of that social utopia by which the intellectuals think of themselves as “independent”, autonomous, endowed with a character of their own, etc.” \cite[7-8]{Gramsci1971}
+
+“What are the ‘maximum’ limits of acceptance of the term ‘intellectual’? Can one find a unitary criterion to characterize equally all the diverse and disparate activities of intellectuals and to distinguish these at the same time an in an essential way from the activities of other social groupings? The most widespread error of method seems to me that of having looked for this criterion of distinction in the intrinsic nature of intellectual activities, rather than in the ensemble of the system of relations in which these activities (and therefore the intellectual groups who personify them) have their place within the general complex of social relations.” \cite[8]{Gramsci1971}
+
+Gramsci’s conception of intellectuals is inextricably linked with [[Gramsci - Hegemony]], and is really a starting point for my work.
+
+<!— References —>
+
+[#Gramsci1971]: Antonio Gramsci (1971):  _Selections from the Prison Diaries_, International Publishers.

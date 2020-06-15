@@ -1,0 +1,9 @@
+“What we can do, for the moment is to fix two major superstructural ‘levels’: the one that can be called ‘civil society’, that is the ensemble of organisms commonly called ‘private’, and that of ‘political society’ or ‘the State’. These two levels correspond on the one hand to the function of ‘hegemony’ which the dominant group exercises throughout society and on the other hand to that of ‘direct domination’ or command exercised through the State and ‘juridical’ government. The functions in question are precisely organizational and connective. The intellectuals are the dominant group’s ‘deputies’ exercising the subaltern functions of social hegemony and political government.” \cite[12]{Gramsci1971}
+
+These functions comprise “spontaneous” content and coercive power “which ‘legally’ enforces discipline on those groups who do not ‘consent’”. Significantly, Gramsci notes that the coercive apparatus “is constituted for the whole of society in anticipation of moments of crisis of command and direction when spontaneous consent has failed.” 
+
+Also of interest is Gramsci’s equation of civil society with what is “commonly called ‘private’”, which brings to mind [[Virno - Grammar of the Multitude]]’s equation of the multitude with “the so-called private”. I think their conceptions are not identical - civil society is not the multitude, I don’t think - but it’s an interesting point of comparison.
+
+<!— References —>
+
+[#Gramsci1971]: Antonio Gramsci (1971):  _Selections from the Prison Diaries_, International Publishers.

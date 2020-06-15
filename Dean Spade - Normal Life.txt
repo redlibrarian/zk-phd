@@ -2,3 +2,10 @@ I wasn’t expecting Spade to refer, even obliquely, to recognition, but there i
 
 “This book has two primary goals. First, it aims to chart the current trajectory of trans politics, one that I argue is recapitulating the limits of leftist, lesbian and gay, feminist and antiracist politics that have centred legal recognition and equality claims. Second, it seeks to elaborate on the possibilities of what I understand as a critical trans politics - that is, a trans politics that demands more than legal recognition and inclusion, seeking instead to transform current logics of state, civil society security, and social equality.” \cite[1]{Spade2015}
 
+“If we seek transformation that is more than symbolic and that reaches those facing the most violent manifestations of transphobia, we must move beyond the politics of recognition and inclusion.” \cite[8]{Spade2015}
+
+“Normal Life asks us to redirect attention away from recognition-and-inclusion-focused law reforms that are often assumed to be the natural legal reform targets of trans resistance, perhaps because they have been the targets of gay and lesbian legal reform.” \cite[11]{Spade2015}
+
+<!— References —>
+
+[#Spade2015]: Dean Spade (2015):  _Normal Life: Administrative Violence, Critical Trans Politics, and the Limits of Law_, Duke University Press.
