@@ -2,6 +2,10 @@ Charles Taylor’s Source of the Self.
 
 The two main things about this book are a) its idealism (for Taylor social formations, ethics, etc, are all determined by what people think) and b) its individualism - despite Taylor’s “communitarian” approach, he still sees “self” and “identity” as self-caused, self-formed, and as “coming to” social relationships after their formation. This is a common view in liberal philosophy, one which a collectivist theory can challenge. It is also significant that Taylor draws on Hegel (in [[Taylor - Politics of Recognition]]) as the source of his communitarian, intersubjective understanding of society, when [[Honneth - Struggle for Recognition]] argues that Hegel’s view of identity-formation is precisely that it is social and historical.
 
+Lukacs, in The Historical Novel, argues that the Enlightenment conception of man (as having an unchanging ‘nature’) had to be challenged and discorded once historical change began to be understood (an understanding forced on the West by the French Revolution). It was Hegel who challenged this Enlightenment conception. “Hegelian philosophy draws all the inferences from the new progressive historicism. It sees man as a product of himself and of his own activity in history” as opposed to the Enlightenment view - which I think Taylor conforms to - where “any change in the course of history… meant, in extreme cases, merely a change of costume and, in general, merely the moral ups and down of the same man” \cite[28]{Lukacs1983}. Is this a valid reading of Taylor?
+
 <!— References —>
+
+[#Lukacs1983]: Georg Lukacs (1983):  _The Historical Novel_, University of Nebraska Press.
 
 [#Taylor1989]: Charles Taylor (1989):  _Sources of the Self: The Making of Modern Identity_, Harvard University Press.

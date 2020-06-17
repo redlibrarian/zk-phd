@@ -4,6 +4,14 @@ These functions comprise “spontaneous” content and coercive power “which �
 
 Also of interest is Gramsci’s equation of civil society with what is “commonly called ‘private’”, which brings to mind [[Virno - Grammar of the Multitude]]’s equation of the multitude with “the so-called private”. I think their conceptions are not identical - civil society is not the multitude, I don’t think - but it’s an interesting point of comparison.
 
+“What is the character of the political party in relation to the problem of the intellectuals? Some distinctions must be made: 1. The politics party for some social groups is nothing other than their specific way of elaborating their own category of organic intellectuals […] 2. The political party, for all groups, is precisely the mechanism which carries out in civil society the same function as the State carries out, more synthetically and over a larger scale, in political society. In other words it is responsible for welding together the organic intellectuals of a given group - the dominant one - and the traditional intellectuals…” \cite[14]{Gramsci1971}
+
+“The fundamental division into classical and vocational (professional) schools was a rational formula: the vocational school for the instrumental classes, the classical school for the dominant classes and the intellectuals.” \cite[26]{Gramsci1971}. The programme of the “classical” (or humanist) school was based (authentically or not) on a Greco-Roman model, which “once questioned, can be said to be doomed, since its formative capacity was to a great extent based on the general and traditionally unquestioned prestige of a particular form of civilization.” \cite[27]{Gramsci1971}.
+
+<!— Backlinks —>
+
+[[Gramsci - TOC]]
+
 <!— References —>
 
 [#Gramsci1971]: Antonio Gramsci (1971):  _Selections from the Prison Diaries_, International Publishers.

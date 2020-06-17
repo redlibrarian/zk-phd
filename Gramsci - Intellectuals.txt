@@ -4,6 +4,10 @@
 
 Gramsci’s conception of intellectuals is inextricably linked with [[Gramsci - Hegemony]], and is really a starting point for my work.
 
+<!— Backlinks —>
+
+[[Gramsci - TOC]]
+
 <!— References —>
 
 [#Gramsci1971]: Antonio Gramsci (1971):  _Selections from the Prison Diaries_, International Publishers.

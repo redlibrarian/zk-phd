@@ -1,0 +1,8 @@
+“Mass formation has standardised individuals both psychologically and in terms of individual qualification and has produced the same phenomena as with other standardized masses: competition which makes necessary organizations for the defence of professions, unemployment, over-production in the schools, emigration, etc.” \cite[14]{Gramsci1971}
+
+<!— Backlinks —>
+[[Gramsci - TOC]]
+
+<!— References —>
+
+[#Gramsci1971]: Antonio Gramsci (1971):  _Selections from the Prison Diaries_, International Publishers.

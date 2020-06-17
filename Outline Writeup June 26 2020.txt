@@ -1,21 +1,40 @@
 
 1. Introduction: Resurgence of the People
 
-This chapter will provide an introduction to “librarianship” (as professional practice and academic discipline) and “intellectual freedom” (as librarianship’s way of framing free speech/free expression). It will then frame the perennial debate between IF and social responsibility as being particularly acute within the multicultural/multinational politics of Canada. This will lead into a literature review of the politics of recognition and its critique, and will point to the individualism and idealism of liberalism as preventing the tension between IF and social responsibility from being resolved. It will then touch on the proposal that Negri’s (radical democratic) constituent power theory can help unify the various critiques of the politics of recognition in order to frame a new way of thinking about intellectual freedom. It will then explain the choice of case studies and lay out the rest of the book.
+This chapter will provide an introduction to “librarianship” (as professional practice and academic discipline) and “intellectual freedom” (as librarianship’s way of framing free speech/free expression). It will then frame the perennial debate between IF and social responsibility as being particularly acute within the multicultural/multinational politics of Canada, and gaining new resonance with current debates around gender identity and Indigenous sovereignty. This will lead into a literature review of the politics of recognition and its critique, and will point to the individualism and idealism of liberalism as preventing the tension between IF and social responsibility from being resolved. It will then touch on the proposal that Negri’s (radical democratic) constituent power theory can help unify the various critiques of the politics of recognition in order to frame a new way of thinking about intellectual freedom. It will then explain the choice of case studies and lay out the rest of the book.
 
 Part One: Towards a Marxist Politics of Recognition
 
 2. Factories of Subjectivity: Theories of Identity and the Politics of Recognition
+
+This chapter focuses on the individualistic theories of identity that underpin politics of recognition within the context of liberal theories of minority rights (e.g. Kymlicka, Patten). For example, both Charles Taylor and Axel Honneth derive their politics of recognition from Hegel, but read Hegel differently. The details of this individualistic account of subject formation not only limits the ability of liberal theory to account for real group or collective rights, it also blocks questions of “non-cultural” difference and belonging (e.g. transgender identity). An alternative proposal which sees individual’s as “emergent” and produced by social relations (and thus engaging in a dialectic of freedom and necessity) will be made, which will problematize what Hardt and Negri have called the “factories of subjectivity” of contemporary capitalism.
+
 3. Free, Informed Choice:: Constitutional Theory and Intellectual Freedom
+
+Moving from individual subjectivity to constitutional theory, this chapter will look at the constitutional theory of “cultural recognition” in e.g. James Tully. It will contrast Negri’s constituent power with Tully’s ideas around “hidden constitutions” and civic freedom as limited by the constituted power that liberalism sees as legitimate. The dialectic of freedom and necessity also plays a role in this chapter.
+
 4. The Dialectic of Virtue and Fortune: A Negrean Critique of Intellectual Freedom
+
+Chapters 2 and 3 should set the stage for this chapter, a reconceptualization of intellectual freedom which departs from the politics of recognition based on liberal conceptions of minority rights and is rather based on Negri’s constituent power (and the dialectic of freedom and necessity, which Negri speaks of in terms of virtue and fortune). 
 
 Part Two: The Right Kind of Citizen
 
-Introduction… The Politics of Intellectual Freedom
-5. The Right Gender: Minority Rights, Free Speech, and Transphobia at Toronto Public Library
- 	- [[Dean Spade - Normal Life]]
-6. The Right Race: Indigenous Dispossession and Security at Winnipeg Public Library
-	- Coulthard
-7. The Right Class: Workplace Speech, Precarity, and Crisis
+5. Introduction. The Politics of Intellectual Freedom
 
-8. Conclusion: Una cultura ancora offensiva
+I suspect some kind of contextualization and scene-setting will be needed here for those unfamiliar with the context. This introduction will focus on the library as a “factory of subjectivity” to produce the “right kind of citizen”, and how that project has been coopted by the emboldening of right-wing discourse post 2016, in terms of transphobia and racism (especially, in Canada, anti-Indigenous racism), but also in terms of militarization and the police, security, etc. I don’t know if this should be a standalone chapter or if it can be distributed between the main Introduction and the case study chapters.
+
+6. The Right Gender: Minority Rights, Free Speech, and Transphobia at Toronto Public Library
+
+Reconstructs the events surrounding room-rental to a “gender critical” group at Toronto Public Library and the eventual protest at the public library branch and the kettling in the library of protesters by police. This chapter will connect the justifications made by TPL to the politics of recognition, look at the critique of trans rights discourse both inside the politics of recognition context (Sally Hines) and outside (Dean Spade). It will then ask whether the Negrean conception of intellectual freedom could have informed an alternative policy decision by TPL that would have been more conducive to social justice for trans people.
+
+7. The Right Race: Indigenous Dispossession and Security at Winnipeg Public Library
+	
+This chapter will look at the case of increased security at Winnipeg Public Library, done solely in consultation with police, in the context of Winnipeg’s history of anti-Indigenous racism, the question of dispossession of land, and the leveraging of a “meth crisis” to increase police targeting of poor people, especially Indigenous people. I will look at Coulthard’s critique of the politics of recognition from the perspective of settler-state/Indigenous power imbalance and inequality, and then ask whether it’s possible to reframe this critique from the perspective of constituent/constituted power.  
+	
+8. The Right Class: Workplace Speech, Precarity, and Crisis
+
+This chapter will look at the power imbalances between constituent power and constituted power in libraries in the context of both workplace speech and precarious labour. Public libraries “recognize” intellectual freedom but have little or no workplace speech protections (such as those accorded academic librarians); they also position themselves as “democratic” organizations, but are still defined by the capital/labour (constituted/constituent) power dynamic. We can see this in the limiting of internal critique in both the Toronto and Winnipeg cases, but also in the layoffs and furloughing of library workers early on in the pandemic response in Canada. This chapter will rely on interviews with library workers (and the ethical issue is here around protecting their identity given the lack of workplace speech protections). 
+
+9. Conclusion: Una cultura ancora offensiva
+
+If each of these case studies can be reframed and understood more generally under Negri’s theory of constituent power, then we can argue that constituent power offers a more generalizable critique not only of liberal diversity and the politics of recognition, but of challenges to particular library policies, offering an opportunity for different struggles to link up. This opens up possibilities for challenging EDI thinking in different organizations, particular policy responses in libraries, and more broadly, offers a Marxist alternative perspective (intersectional) minority and group rights to the hegemonic liberal one.
