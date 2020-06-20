@@ -1,0 +1,10 @@
+Marxist Subjectivity
+==============
+
+Starting from the original description of historical materialism in Marx and Engels (German Ideology, Eighteenth Brumaire, Contribution to the Critique of Political Economy) that “men make their own history, but they do not make it just as they please”, Marxism has always recognized that the material world and social relations are in a dialectical relationship with individual subjectivity. In other words, neither social structure (despite Althusser) or individual agency is 100% determinative, but rather, in Bhaskar’s view “the causal power of social forms is mediated by human agency” \cite[26]{Bhaskar1979} \cite[1-5]{Archer2003}. We can see this in Gramsci, where traditional intellectuals are bound to the interests of the dominant class, and social classes produce their own “organic intellectuals”. And we can see it in the whole discourse of class consciousness as formulated by Lukacs. In Bhaskar, individual subjectivity is “emergent” from social relations, and in their term define social relationships (so individual and society are doubly mediated).
+
+Jameson’s view of subjectivity is focused primarily on ideology and “the processes where the transformations of subjectivity can be seen to accompany changes in history of the modes of production” (\cite[x]Jameson{2009}). This not only informs the discussion of structure and determination in The Political Unconscious, but also Jameson’s very understanding of postmodernism as a “cultural logic” and the form of subjectivity appropriate to neoliberalism. 
+
+Negri, I think, takes much the same line as Bhaskar, with the social relations of the multitude producing individual subjectivities. However, this process can also be (indeed must be) used by constituted power as a way to discipline and constrain the multitude. Institutions like libraries become “factories of subjectivity” and in this sense are very much connected to Gramsci’s conceptions of intellectuals, hegemony, and civil society.
+
+Needless to say all this is in sharp contrast with [[liberal individualism]]

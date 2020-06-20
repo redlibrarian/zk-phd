@@ -1,0 +1,38 @@
+Communitarianism
+==============
+
+Notes from Daniel Bell, “Communitarianism”, Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/communitarianism/
+
+Started as a reaction against Rawls’ Theory of Justice (1971) which saw “the principal task of government is to secure and distribute fairly the liberties and economic resources individuals need to lead freely chosen lives”. Alisdair MacIntyre, Michael Sandel, Charles Taylor, and Michael Walzer drew on Aristotle and Hegel to challenge this individualistic assumption with “certain core arguments meant to contrast with liberalism’s devaluation of community”. Bell distinguishes three kinds of claims: “methodological claims about the importance of tradition and social context for moral and political reasoning, ontological or metaphysical claims about the social nature of the self, and normative claims about the value of community”. 
+
+Universalism versus Particularism: “Whereas Rawls seemed to present his theory of justice as universally true, communitarians argued that the standards of justice must be found in forms of life and traditions of particular societies and hence can vary from context to context”.
+
+“By the 1990s, fairly abstract methodological disputes over universalism versus particularism faded from academic prominence, and the debate now [2013] centres on the theory and practice of universal human rights.”
+
+The Debate over the Self: “Communitarian Thinkers in the 1980s such as Michael and Sandel and Charles Taylor argued that Rawlsian liberalism rests on an overly individualistic conception of the self.” See Taylor’s “Atomism (1985). I still think Taylor is too individualistic, in that he sees individual and society as only externally related. Bell argues that no liberal thinker really thought in terms of Robinsonades, but “this qualified version of the liberal self… still seems to imply that moral outlooks are, or should be, the product of individual choice”. 
+
+The Politics of Community: “In retrospect, it seems obvious that communitarian critics of liberalism may have been motivated not so much by philosophical concerns as by certain pressing political concerns, namely, the negative social and psychological effects related to the atomistic tendencies of modern liberal societies” (i.e. after the neoliberal turn). 
+
+“To remedy this imbalance between rights and responsibilities in the US, political communitarians proposed a moratorium on the manufacture of new rights and changes to our “habits of the heart” away from exclusive focus on personal fulfillment and towards concern with bolstering families, schools, neighborhoods, and national political life, changes to be supported by certain public policies.” Note the idealism of “changing the habits of the heart” - this is the same as the passage on “phrases” in The German Ideology. 
+
+Avineri, S., and de-Shalit, A., (eds), 1992, Communitarianism and Individualism, Oxford: Clarendon Press.
+
+Bell, D., 1993, Communitarianism and Its Critics, Oxford: Clarendon Press.
+
+Benhabib, S., 1992, Situating the Self: Gender, Community and Postmodernism in Contemporary Ethics, Cambridge: Polity Press.
+
+ 	Frazer, E., 1999, The Problems of Communitarian Politics, Oxford: Oxford University Press.
+ 	
+ 	Frazer, E., and Lacey, N., 1993, The Politics of Community: A feminist critique of the liberal-communitarian debate, Hemel Hempstead: Harvester Wheatsheaf.
+ 	
+ 	 	Kymlicka, W., 1995, Multicultural Citizenship, Oxford: Clarendon Press.
+ 	 	
+ 	–––, 1989, Liberalism, Community and Culture, Oxford: Clarendon Press.
+ 	
+ 	MacIntyre, Alistair. , 1984, After Virtue, Notre-Dame: University of Notre Dame Press, 2nd edition.
+ 	
+ 	Taylor, Charles, 1985, Philosophy and the Human Sciences: Philosophical Papers 2, Cambridge: Cambridge University Press.
+ 	
+ 	Young, I. M., 1990, Justice and the Politics of Difference, Princeton: Princeton University Press.
+
+
