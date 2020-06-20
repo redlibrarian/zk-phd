@@ -1,0 +1,7 @@
+Something I forgot to include in Opposite Realities is the centrality of “ideology” in the Marxist sense, not as false consciousness or the adherence to political perspectives (as opposed to some purportedly objective or neutral stance) but as “a mechanism whereby the conscious (and unconscious) individual biological subject situates himself or herself within the collective social structure: ideology as a kind of unconscious cognitive mapping” \cite[x]{Jameson2019}
+
+Jameson also points out that there are no areas of life which are non-ideological. This “illusion” is “most easily entertained in moments of historical stasis” [ix]. This is a a good up-to-date quote to use instead of Bhaskar’s contrary way of putting it, which is that ideologies become explicit in moments of crisis. 
+
+<!— References —>
+
+[#Jameson2019]: Fredric Jameson (2019):  _Ideology and Allegory_, Verso.
