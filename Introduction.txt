@@ -1,0 +1,48 @@
+Introduction outline
+==============
+
+1. Statement of the Problem
+2. Liberalism, Communitarianism, and the Politics of Recognition
+3. The Politics of Recognition in Canada: Multiculturalism, Indigenous Sovereignty, and Quebec
+4. Critiques of Recognition and the Rise of Identity Politics
+5. Historical Materialism and Subject Formation
+6. Communitarian Constitutionalism and Constituent Power
+7. Case Studies and Outline. 
+
+Statement of the Problem:
+- There has been a recent spate of events in libraries which challenge the hegemonic conception of “intellectual freedom” as a core value. Intellectual freedom is framed as a universal human right in non-First Amendment countries, and so the challenge to intellectual freedom in libraries calls into question the role of state organizations in protecting those rights.
+- Communitarian critiques of classical and Rawlsian liberalism left the role of the state unchanged. This has become problematic amid what we can think of as a “resurgence of the people” - not only right-wing populism but a resurgence of Indigenous sovereignty and identity politics. We can see this problem clearly in recent examples in Canadian libraries.
+
+Liberalism, Communitarianism, and the Politics of Recognition:
+- The concept of intellectual freedom is predicated on a classical liberal, individualist model coming out of Mills and Rawls. Various attempts to bring social relationships into this theory (Habermas, Gramsci) are attempts to counter the radical individualism of intellectual freedom (same as the communitarian critique of liberalism itself). In the Canadian context, the individual/communitarian concept of intellectual freedom has been brought into a different context, one which is less individualistic than the American context, which raises its own problems for IF. In Canada, the question is less between individual rights and the state, as between minority rights (multiculturalism, Indigenous sovereignty, Quebec as a distinct society) and the majority within civil society. In the American context, things are more clear cut: libraries as organizations of the state fall under the First Amendment and therefore individual rights are protected. In the Canadian context things are more complicated: libraries as state organizations are meant to help protect individual/minority rights against the majority and against the state (i.e. they need to protect individual/minority rights against libraries themselves). There is a contradiction here.
+
+ [[communitarian-liberalism debate]]
+ [[joseph-note]
+
+
+The Politics of Recognition in Canada: Multiculturalism, Indigenous Sovereignty, and Quebec.
+
+[[Canada multiculturalism 1990s]]
+
+- In Canada, the politics of recognition was a very specific intervention to help try to solve this problem. They can be understood as a very specific form of the communitarian critique of liberalism. However, as people like Coulthard and Spade have pointed out, the politics of recognition (indeed, the communitarian critique itself) does not go far enough, and so is unable to achieve social justice. 
+- I argue that the politics of recognition is predicated on 1) individualism and 2) idealism, both of which lead to the kinds of contradictions identified. The various social justice critiques of recognition (Coulthard, Spade) could be brought together under a particular Marxist conception of power, which would help us to reframe intellectual freedom issues in libraries.
+
+
+Critiques of the Politics of Recognition: The Rise of Identity Politics
+
+[[Politics of Recognition and its Critique.]]
+
+
+Historical Materialism and Subject Formation:
+
+- The problem is that intellectual freedom in both its liberal and its communitarian forms is predicated on a “methodological individualism” that prevents it from accommodating corporate or collective conceptions of harm. The individual is placed in opposition to both state (in the American/liberal case) or civil society (in the Canadian case). In Marxist terms individualism and idealism are connected (see [[Marx - Proudhon]], [[Gramsci - Intellectuals]]). Despite being excluded from the communitarian/liberalism debate, Marxism offers an alternative to individualism (in its theory of subject formation) and idealism (in its materialism). [[Marxist Subjectivity]]. Though these raise the vexed question of [[Ideology]]. However, a properly Marxist understanding of these things can leads us from a liberal democracy to a [[radical democracy]] as long as we can propose an alternative to communitarian constitutionalism. 
+
+Communitarian Constitutionalism and Constituent Power:
+
+	- Tully and Negri.
+
+Decision to use Canadian librarianship as Case Study.
+
+
+
+

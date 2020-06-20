@@ -1,0 +1,7 @@
+“‘A man’ sets out to ‘propose to other men, his collaborators in various functions’, that they establish exchange, and make a distinction between ordinary value and exchange value. In accepting this proposed distinction, the collaborators have left M. Proudhon no other ‘care’ than that of recording the fact of marking, of ‘noting’ in his treatise on political economy ‘the genesis of the idea of value’. But he has still to explain to us the ‘genesis’ of this proposal, to tell us how this single individual, this Robinson, suddenly had the idea of making ‘to his collaborators’ a proposal of the type known and how these collaborators accepted it without the slightest protest.” \cite[29]{Marx1955}
+
+Idealists can’t tell us where ideas come from, they best they can do is argue that ideas arise in pre-social individuals.
+
+<!— References —>
+
+[#Marx1955]: Karl Marx (1955):  _The Poverty of Philosophy_, Progress Publishers.
