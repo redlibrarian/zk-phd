@@ -4,8 +4,12 @@ The two main things about this book are a) its idealism (for Taylor social forma
 
 Lukacs, in The Historical Novel, argues that the Enlightenment conception of man (as having an unchanging ‘nature’) had to be challenged and discorded once historical change began to be understood (an understanding forced on the West by the French Revolution). It was Hegel who challenged this Enlightenment conception. “Hegelian philosophy draws all the inferences from the new progressive historicism. It sees man as a product of himself and of his own activity in history” as opposed to the Enlightenment view - which I think Taylor conforms to - where “any change in the course of history… meant, in extreme cases, merely a change of costume and, in general, merely the moral ups and down of the same man” \cite[28]{Lukacs1983}. Is this a valid reading of Taylor?
 
+In “Cross-Purposes: the Communitarian-Liberal debate”, Taylor argues that the libertarians are “atomist individualists” and the communitarians (including communists, etc), are “holist collectivists”, but that there is a middle-ground which he calls “holist individualists” which “represent a trend of thought that is fully aware of the (ontological) social embedding of human agents, but at the same time prizes liberty and individual differences very highly” \cite[196]{Taylor2003}. Taylor’s individualism still sees individuals as “embedded” in society (ontologically) rather than produced by society.
+
 <!— References —>
 
 [#Lukacs1983]: Georg Lukacs (1983):  _The Historical Novel_, University of Nebraska Press.
 
 [#Taylor1989]: Charles Taylor (1989):  _Sources of the Self: The Making of Modern Identity_, Harvard University Press.
+
+[#Taylor2003]: Charles Taylor (2003):  _Cross-purposes: the liberal-communitarian debate_, in: Debates in Contemporary Political Philosophy, Routledge.
