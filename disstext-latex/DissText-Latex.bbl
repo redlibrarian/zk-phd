@@ -1,166 +1,89 @@
-\begin{thebibliography}{30}
+\begin{thebibliography}{14}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Association(1974)]{cla-if}
-Canadian~Library Association.
-\newblock Position statement on intellectual freedom, 1974.
+\bibitem[Cornell et~al.(1992)Cornell, Rosenfeld, and
+  Carlson]{CornellRosenfeldCarleson1992}
+Drusilla Cornell, Michael Rosenfeld, and David~Gray Carlson, editors.
+\newblock \emph{Deconstruction and the Possibility of Justice}.
+\newblock Psychology Press, 1992.
 
-\bibitem[Beauchamp(2018)]{Beauchamp-2018}
-Zack Beauchamp.
-\newblock Milo yiannopoulos's collapse shows that no-platforming can work,
-  2018.
+\bibitem[Coulthard(2014)]{coulthard2014}
+Glen~Sean Coulthard.
+\newblock \emph{Red Skin White Masks: Rejecting the Colonial Politics of
+  Recognition}.
+\newblock University of Minnesota Press, 2014.
 
-\bibitem[Berman(1971)]{berman-1971}
-Sanford Berman, editor.
-\newblock \emph{Prejudices and Antipathies: A Tract on the LC Subject Heads
-  Concerning People}.
-\newblock Scarecrow Press, 1971.
+\bibitem[Fraser(1997)]{fraser-justice}
+Nancy Fraser.
+\newblock \emph{Justice Interruptus: Critical Reflections on the
+  "Postsocialist" Condition}.
+\newblock Routledge, 1997.
 
-\bibitem[Bhaskar(1998)]{bhaskar-1979}
-Roy Bhaskar.
-\newblock \emph{The Possibility of Naturalism: A Philosophical Critique of the
-  Human Sciences}.
-\newblock Routledge, third edition, 1998.
+\bibitem[Fraser and Honneth(2003)]{fraser-honneth}
+Nancy Fraser and Axel Honneth.
+\newblock \emph{Redistribution or Recognition? A Political-Philosophical
+  Exchange}.
+\newblock Verso, 2003.
 
-\bibitem[Brean(2019)]{brean-2019}
-Joseph Brean.
-\newblock Meghan murphy, the woman behind trans wars breaking out at the public
-  library.
-\newblock \emph{National Post}, 2019.
+\bibitem[Gali{\v s}anka(2019)]{Galisanka2019}
+Andrius Gali{\v s}anka.
+\newblock \emph{John Rawls: The Path to a Theory of Justice}.
+\newblock Harvard University Press, 2019.
 
-\bibitem[CBC(2019)]{cbc-vpl}
-CBC.
-\newblock Vancouver pride bans library from parade over event featuring
-  'transphobic' activist.
-\newblock \emph{CBC News}, 2019.
+\bibitem[Harvey(2005)]{harvey-2005}
+David Harvey.
+\newblock \emph{A Brief History of Neoliberalism}.
+\newblock Oxford University Press, 2005.
 
-\bibitem[CFLA(2016)]{cfla-if}
-CFLA.
-\newblock Statement on intellectual freedom and libraries, 2016.
+\bibitem[Hines(2013)]{Hines2013}
+Sally Hines.
+\newblock \emph{Gender Diversity, Recognition and Citizenship: Towards a
+  Politics of Difference}.
+\newblock Palgrave Macmillan, 2013.
 
-\bibitem[Chou and Pho(2018)]{chou-pho-2018}
-Rose~L. Chou and Annie Pho, editors.
-\newblock \emph{Pushing the Margins: Women of Color and Intersectionality in
-  LIS}.
-\newblock Library Juice Press, 2018.
+\bibitem[Honneth(1995)]{honneth-struggle}
+Axel Honneth.
+\newblock \emph{The Struggle for Recognition: The Moral Grammar of Social
+  Conflicts}.
+\newblock MIT Press, 1995.
 
-\bibitem[Craggs(2019)]{craggs-2019}
-Samantha Craggs.
-\newblock Former leader of white supremacy group works in hamilton's it office,
-  sparking concerns, 2019.
+\bibitem[Jameson(1991)]{Jameson1991}
+Fredric Jameson.
+\newblock \emph{Postmodernism, or, the Cultural Logic of Late Capitalism}.
+\newblock Duke University Press, 1991.
 
-\bibitem[Garrison(1972)]{garrison-1972}
-Dee Garrison.
-\newblock The tender technicians: The feminization of public librarianship,
-  1876-1905.
-\newblock \emph{Journal of Social History}, 6\penalty0 (2):\penalty0 131--159,
-  1972.
+\bibitem[Singh(2014)]{singh-recognition}
+Jakeet Singh.
+\newblock Recognition and self-determination: Approaches from above and below.
+\newblock In Avigail Eisenberg, Jeremy Webber, Glen Coulthard, and Andr{\'e}e
+  Boisselle, editors, \emph{Recognition versus Self-Determination: Dilemmas of
+  Emancipation}, pages 47--74. UBC Press, 2014.
 
-\bibitem[Gorman(2000)]{gorman-2000}
-Michael Gorman.
-\newblock \emph{Our Enduring Values: Librarianship in the 21st Century}.
-\newblock ALA, 2000.
+\bibitem[Singh(2018)]{singh-democracy}
+Jakeet Singh.
+\newblock Decolonizing radical democracy.
+\newblock \emph{Contemporary Political Theory}, 18\penalty0 (3):\penalty0
+  331--356, 2018.
 
-\bibitem[Hennig(2019)]{cbc-ubc}
-Clare Hennig.
-\newblock Ubc barred from vancouver pride parade for hosting controversial
-  speaker.
-\newblock \emph{CBC News}, 2019.
+\bibitem[Spade(2015)]{Spade2015}
+Dean Spade.
+\newblock \emph{Normal Life: Administrative Violence, Critical Trans Politics,
+  and the Limits of Law}.
+\newblock Duke University Press, 2015.
 
-\bibitem[Hutchins(2017)]{hutchins-2017}
-Aaron Hutchins.
-\newblock What really happened at laurier university, 2017.
+\bibitem[Taylor(1985)]{Taylor1985}
+Charles Taylor.
+\newblock Atomism.
+\newblock In \emph{Philosophical Papers, Volume 2: Philosophy and the Human
+  Sciences}, pages 187--210. Cambridge University Press, 1985.
 
-\bibitem[IFLA(1999)]{ifla-if}
-IFLA.
-\newblock Ifla statement on libraries and intellectual freedom, 1999.
-
-\bibitem[Kymlicka(1996)]{kymlicka-citizenship}
-Will Kymlicka.
-\newblock \emph{Multicultural Citizenship: A Liberal Theory of Minority
-  Rights}.
-\newblock Clarendon, 1996.
-
-\bibitem[Lew and Yousefi(2017)]{lew-yousefi-2017}
-Shirley Lew and Baharak Yousefi, editors.
-\newblock \emph{Feminists Among Us: Resistance and Advocacy in Library
-  Leadership}.
-\newblock Library Juice Press, 2017.
-
-\bibitem[Lewis(2008)]{lewis-2008}
-Alison Lewis, editor.
-\newblock \emph{Questioning Library Neutrality: Essays from Progressive
-  Librarian}.
-\newblock Library Juice Press, 2008.
-
-\bibitem[MacKinnon(2018)]{mackinnon-2018}
-Peter MacKinnon.
-\newblock \emph{University Commons Divided: Exploring Debate and Dissent on
-  Campus}.
-\newblock University of Toronto Press, 2018.
-
-\bibitem[Olson(Springer)]{olson-2002}
-H.A. Olson.
-\newblock \emph{The Power to Name: Locating the Limits of Subject
-  Representation in Libraries}.
-\newblock 2002, Springer.
-
-\bibitem[Peterson(2016)]{peterson-2016}
-Jordan Peterson.
-\newblock The right to be politically incorrect, 2016.
-
-\bibitem[Popowich(2019)]{popowich-2019}
-Sam Popowich.
-\newblock \emph{Confronting the Democratic Discourse of Librarianship: A
-  Marxist Approach}.
-\newblock Library Juice Press, 2019.
-
-\bibitem[Quan(2015)]{quan-2015}
-Douglas Quan.
-\newblock Ex-ontario teacher is international director of american 'white
-  nationalist' group that influenced dylann roof, 2015.
-
-\bibitem[Samek(2001)]{samek-if1}
-Toni Samek.
-\newblock \emph{Intellectual Freedom and Social Responsibility in American
-  Librarianship, 1967-1974}.
-\newblock McFarland, 2001.
-
-\bibitem[Schlesselman-Tarango(2017)]{schlesselman-tarango-2017}
-Gina Schlesselman-Tarango, editor.
-\newblock \emph{Topographies of Whiteness: Mapping Whiteness in Library and
-  Information Science}.
-\newblock Library Juice Press, 2017.
-
-\bibitem[Shakeri(2017)]{shakeri-2017}
-Sima Shakeri.
-\newblock Toronto public library allows neo-nazi memorial for barbara kulaszka
-  to go ahead, 2017.
-
-\bibitem[TPL({\natexlab{a}})]{tpl-kulaszka}
-TPL.
-\newblock Statement from city librarian vickery bowles on last evening's event
-  at richview library, 2017 {\natexlab{a}}.
-
-\bibitem[TPL({\natexlab{b}})]{tpl-revisions}
-TPL.
-\newblock Community and event space rental policy -- revisions, {\natexlab{b}}.
-
-\bibitem[VPL()]{vpl-values}
-VPL.
-\newblock About the library.
-
-\bibitem[VPL(2019)]{vpl-policy}
-VPL.
-\newblock Public meeting rooms and facilities use, 2019.
-
-\bibitem[Yorio and Peet(2018)]{yorio-peet-2018}
-Kara Yorio and Lisa Peet.
-\newblock Free speech debate erupts with ala's inclusion of hate groups in
-  revision of bill of rights interpretation, 2018.
+\bibitem[Taylor(1992)]{Taylor1992}
+Charles Taylor.
+\newblock \emph{Multiculturalism and 'The Politics of Recognition': An Essay}.
+\newblock Princeton University Press, 1992.
 
 \end{thebibliography}

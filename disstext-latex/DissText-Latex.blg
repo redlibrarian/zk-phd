@@ -3,63 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: DissText-Latex.aux
 The style file: plainnat.bst
 Database file #1: Bibliography.bib
-Warning--entry type for "shakeri-2017" isn't style-file defined
---line 86 of file Bibliography.bib
-Warning--entry type for "craggs-2019" isn't style-file defined
---line 96 of file Bibliography.bib
-Warning--entry type for "quan-2015" isn't style-file defined
---line 106 of file Bibliography.bib
-Warning--entry type for "yorio-peet-2018" isn't style-file defined
---line 116 of file Bibliography.bib
-Warning--entry type for "hutchins-2017" isn't style-file defined
---line 125 of file Bibliography.bib
-Warning--entry type for "peterson-2016" isn't style-file defined
---line 134 of file Bibliography.bib
-Warning--entry type for "beauchamp-2018" isn't style-file defined
---line 151 of file Bibliography.bib
-Warning--I didn't find a database entry for "bonfert-2020"
-Warning--empty year in tpl-kulaszka
-Warning--empty year in tpl-revisions
-Warning--empty year in vpl-values
-You've used 30 entries,
+You've used 14 entries,
             2773 wiz_defined-function locations,
-            716 strings with 7932 characters,
-and the built_in function-call counts, 9063 in all, are:
-= -- 718
-> -- 338
-< -- 30
-+ -- 130
-- -- 99
-* -- 476
-:= -- 1411
-add.period$ -- 76
-call.type$ -- 30
-change.case$ -- 112
-chr.to.int$ -- 29
-cite$ -- 63
-duplicate$ -- 537
-empty$ -- 988
-format.name$ -- 135
-if$ -- 1923
-int.to.chr$ -- 2
+            671 strings with 6677 characters,
+and the built_in function-call counts, 4875 in all, are:
+= -- 391
+> -- 186
+< -- 15
++ -- 69
+- -- 55
+* -- 285
+:= -- 773
+add.period$ -- 44
+call.type$ -- 14
+change.case$ -- 48
+chr.to.int$ -- 14
+cite$ -- 28
+duplicate$ -- 307
+empty$ -- 503
+format.name$ -- 71
+if$ -- 1044
+int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 23
-newline$ -- 144
-num.names$ -- 125
-pop$ -- 365
+missing$ -- 24
+newline$ -- 78
+num.names$ -- 59
+pop$ -- 167
 preamble$ -- 1
-purify$ -- 93
+purify$ -- 45
 quote$ -- 0
-skip$ -- 396
+skip$ -- 196
 stack$ -- 0
-substring$ -- 81
-swap$ -- 33
-text.length$ -- 0
+substring$ -- 97
+swap$ -- 30
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 270
-warning$ -- 3
-while$ -- 91
+type$ -- 99
+warning$ -- 0
+while$ -- 48
 width$ -- 0
-write$ -- 340
-(There were 11 warnings)
+write$ -- 180

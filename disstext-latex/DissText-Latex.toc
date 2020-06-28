@@ -1,5 +1,4 @@
 \contentsline {chapter}{Contents}{ii}{section*.1}%
 \contentsline {chapter}{\chapternumberline {1}Introduction: Resurgence of the People}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}The Politics of Intellectual Freedom}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Liberal Philosophy and Information Ethics}{5}{section.1.2}%
-\contentsline {chapter}{Bibliography}{7}{chapter*.2}%
+\contentsline {section}{\numberline {1.1}The Politics of Recognition: Cultural Diversity and Identity Politics}{1}{section.1.1}%
+\contentsline {chapter}{Bibliography}{5}{chapter*.2}%

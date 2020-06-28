@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-05 18:49:59 -0600" ModID="B421B94B-3E63-4ADD-8337-2F90825673DF">
+<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-28 11:11:23 -0600" ModID="0BFCE9D0-94AF-4057-8E3F-68CAC7F0A684">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
             <Title>Non-Fiction Format for LaTeX</Title>
@@ -31,38 +31,35 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="55F6835A-7F03-485B-9F72-7AD50DDCA139" Type="Text" Created="2020-06-03 11:52:52 -0600" Modified="2020-06-03 11:53:18 -0600">
-                            <Title>The Multicultural Context of the Canadian Politics of Recognition</Title>
+                        <BinderItem UUID="13204C02-03B5-4014-99B1-4F2CB0C46A05" Type="Text" Created="2020-06-28 05:29:40 -0600" Modified="2020-06-28 11:11:07 -0600">
+                            <Title>The Politics of Recognition: Cultural Diversity and Identity Politics</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
+                            <TextSettings>
+                                <TextSelection>878,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="55F6835A-7F03-485B-9F72-7AD50DDCA139" Type="Text" Created="2020-06-03 11:52:52 -0600" Modified="2020-06-03 11:53:18 -0600">
+                            <Title>The Multicultural Context of the Canadian Politics of Recognition</Title>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="136B69B3-0ED8-4EB2-B1BD-41C3DACCA89C" Type="Text" Created="2020-06-03 11:53:27 -0600" Modified="2020-06-03 11:53:32 -0600">
                             <Title>Literature Review</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D3E6C34D-BD7A-439A-A32C-5E2F1EA3F900" Type="Text" Created="2020-06-03 11:53:40 -0600" Modified="2020-06-03 11:53:52 -0600">
                             <Title>A Marxist Critique of the Politics of Recognition</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="B480F407-271D-49C0-83E1-CA1C011376DA" Type="Text" Created="2020-06-03 11:54:01 -0600" Modified="2020-06-03 11:54:08 -0600">
                             <Title>Explanation of Case Studies and Outline</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -149,7 +146,7 @@
                                 <TextSelection>79,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="73C0BBB7-555C-4DC8-8F32-60BDDA3BE15A" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:32:36 -0600">
+                        <BinderItem UUID="73C0BBB7-555C-4DC8-8F32-60BDDA3BE15A" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-28 11:04:26 -0600">
                             <Title>Bibliography Packages</Title>
                             <MetaData>
                                 <SectionType>8EA6121D-9568-4C30-9618-479A443FEF77</SectionType>
@@ -157,7 +154,7 @@
                                 <IconFileName>LaTeX Control.tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>18,0</TextSelection>
+                                <TextSelection>43,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="C363C175-FF49-44A7-B4D4-26254B6FDDCB"/>
@@ -315,9 +312,6 @@
         </BinderItem>
         <BinderItem UUID="6B6E864E-D14F-4EF7-8C5F-1D489706989A" Type="ResearchFolder" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
             <Title>Research</Title>
-            <CorkboardAndOutliner>
-                <SelectedSubdocumentUUIDs>8DDDF593-7D99-4FBB-83FA-B095E6D5E072</SelectedSubdocumentUUIDs>
-            </CorkboardAndOutliner>
             <Children>
                 <BinderItem UUID="29B7380E-FDA3-423A-98C6-A8BF28C80CE5" Type="PDF" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
                     <Title>Sample PDF</Title>
@@ -613,14 +607,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-06-06 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-06-05 18:49:54 -0600"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-06-29 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="2" Date="2020-06-28 05:29:16 -0600"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-06-05 00:00:00 -0600">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2020-06-28 00:00:00 -0600">
+        <DraftWordCount>-9</DraftWordCount>
+        <DraftCharCount>-68</DraftCharCount>
+        <OtherWordCount>1539</OtherWordCount>
+        <OtherCharCount>10528</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>BB89721F-361D-4DC6-B9DC-70E2BE85968E</TemplateFolderUUID>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
