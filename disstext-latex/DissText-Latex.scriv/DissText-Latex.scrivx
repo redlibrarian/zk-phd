@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-28 11:11:23 -0600" ModID="0BFCE9D0-94AF-4057-8E3F-68CAC7F0A684">
+<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-28 11:27:39 -0600" ModID="85841858-B41F-4CF0-9AA9-65EDC659BD73">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
             <Title>Non-Fiction Format for LaTeX</Title>
@@ -37,7 +37,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>878,0</TextSelection>
+                                <TextSelection>9956,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="55F6835A-7F03-485B-9F72-7AD50DDCA139" Type="Text" Created="2020-06-03 11:52:52 -0600" Modified="2020-06-03 11:53:18 -0600">
@@ -187,7 +187,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="56407EA7-C110-49D9-9DE0-DB12C632FB0B" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
+                <BinderItem UUID="56407EA7-C110-49D9-9DE0-DB12C632FB0B" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-28 11:27:27 -0600">
                     <Title>Begin Document</Title>
                     <MetaData>
                         <SectionType>8EA6121D-9568-4C30-9618-479A443FEF77</SectionType>
@@ -613,8 +613,8 @@
     <RecentWritingHistory Date="2020-06-28 00:00:00 -0600">
         <DraftWordCount>-9</DraftWordCount>
         <DraftCharCount>-68</DraftCharCount>
-        <OtherWordCount>1539</OtherWordCount>
-        <OtherCharCount>10528</OtherCharCount>
+        <OtherWordCount>1541</OtherWordCount>
+        <OtherCharCount>10551</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>BB89721F-361D-4DC6-B9DC-70E2BE85968E</TemplateFolderUUID>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
