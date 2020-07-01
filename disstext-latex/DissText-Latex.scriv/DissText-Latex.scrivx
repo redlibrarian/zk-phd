@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-28 12:16:19 -0600" ModID="D6E0DF06-9CC2-4108-9835-C8623DE6B61E">
+<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-30 15:27:47 -0600" ModID="6F5710CA-6143-4A95-842C-9DBEA9684F25">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
             <Title>Non-Fiction Format for LaTeX</Title>
@@ -40,19 +40,22 @@
                                 <TextSelection>10440,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F85CCFFA-CD43-471B-8482-88AE76FEEB1D" Type="Text" Created="2020-06-28 12:15:22 -0600" Modified="2020-06-28 12:16:19 -0600">
+                        <BinderItem UUID="F85CCFFA-CD43-471B-8482-88AE76FEEB1D" Type="Text" Created="2020-06-28 12:15:22 -0600" Modified="2020-06-30 15:14:12 -0600">
                             <Title>Hegel and the Ethical Unification of the People</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>4894,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="55F6835A-7F03-485B-9F72-7AD50DDCA139" Type="Text" Created="2020-06-03 11:52:52 -0600" Modified="2020-06-03 11:53:18 -0600">
+                        <BinderItem UUID="55F6835A-7F03-485B-9F72-7AD50DDCA139" Type="Text" Created="2020-06-03 11:52:52 -0600" Modified="2020-06-30 15:27:17 -0600">
                             <Title>The Multicultural Context of the Canadian Politics of Recognition</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>5200,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="136B69B3-0ED8-4EB2-B1BD-41C3DACCA89C" Type="Text" Created="2020-06-03 11:53:27 -0600" Modified="2020-06-03 11:53:32 -0600">
@@ -616,14 +619,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-06-29 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="34" Characters="238" Date="2020-06-28 05:29:16 -0600"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-01 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="714" Characters="4682" Date="2020-06-30 14:21:00 -0600"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-06-28 00:00:00 -0600">
-        <DraftWordCount>25</DraftWordCount>
-        <DraftCharCount>168</DraftCharCount>
-        <OtherWordCount>1541</OtherWordCount>
-        <OtherCharCount>10551</OtherCharCount>
+    <RecentWritingHistory Date="2020-06-30 00:00:00 -0600">
+        <DraftWordCount>714</DraftWordCount>
+        <DraftCharCount>4682</DraftCharCount>
+        <OtherWordCount>1754</OtherWordCount>
+        <OtherCharCount>11747</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>BB89721F-361D-4DC6-B9DC-70E2BE85968E</TemplateFolderUUID>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>

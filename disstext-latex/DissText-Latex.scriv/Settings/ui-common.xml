@@ -122,10 +122,6 @@
                     <ItemID>F85CCFFA-CD43-471B-8482-88AE76FEEB1D</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="99">
-                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">7F36E1E8-5268-41DE-B900-5541DA073025</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">73C0BBB7-555C-4DC8-8F32-60BDDA3BE15A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">C363C175-FF49-44A7-B4D4-26254B6FDDCB</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">73C0BBB7-555C-4DC8-8F32-60BDDA3BE15A</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">C363C175-FF49-44A7-B4D4-26254B6FDDCB</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">606E2F6A-318D-44EA-A9BC-81093A72CD2F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">C363C175-FF49-44A7-B4D4-26254B6FDDCB</HistoryItem>
@@ -221,6 +217,10 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">56407EA7-C110-49D9-9DE0-DB12C632FB0B</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">13204C02-03B5-4014-99B1-4F2CB0C46A05</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">B3FA34AA-D3C9-4AD8-B528-95A266FBB090</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">F85CCFFA-CD43-471B-8482-88AE76FEEB1D</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">13204C02-03B5-4014-99B1-4F2CB0C46A05</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">F85CCFFA-CD43-471B-8482-88AE76FEEB1D</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">55F6835A-7F03-485B-9F72-7AD50DDCA139</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">F85CCFFA-CD43-471B-8482-88AE76FEEB1D</HistoryItem>
                 </NavigationHistory>
             </View>

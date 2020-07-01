@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  28 JUN 2020 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  30 JUN 2020 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -676,39 +676,90 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
-[2] [3] [4] (./DissText-Latex.bbl [5
+[2] [3]
+Overfull \hbox (4.30984pt too wide) in paragraph at lines 77--81
+\OT1/ppl/m/n/12 In many ways, the com-mu-ni-tar-ian/liberalism de-bate sim-ply 
+re-pro-duced Hegel's
+ []
+
+[4] [5] [6] [7]
+Overfull \hbox (9.55357pt too wide) in paragraph at lines 98--99
+\OT1/ppl/m/n/12 (failed) con-sti-tu-tional amend-ments were pro-posed, the most
+ con-tentious of which
+ []
+
+[8]
+
+Package natbib Warning: Citation `taylor-1989' on page 9 undefined on input lin
+e 104.
 
 
-]) [6]
+Package natbib Warning: Citation `Taylor-1991' on page 9 undefined on input lin
+e 104.
+
+
+Package natbib Warning: Citation `kymlicka-citizenship' on page 9 undefined on 
+input line 104.
+
+
+Package natbib Warning: Citation `taylor-1992' on page 9 undefined on input lin
+e 104.
+
+
+Package natbib Warning: Citation `honneth-1995' on page 9 undefined on input li
+ne 104.
+
+
+Package natbib Warning: Citation `fraser-1997' on page 9 undefined on input lin
+e 104.
+
+
+Package natbib Warning: Citation `tully-1995' on page 9 undefined on input line
+ 104.
+
+[9] [10] (./DissText-Latex.bbl
+Underfull \hbox (badness 3148) in paragraph at lines 46--50
+[]\OT1/ppl/m/n/12 Stuart Hall.  The neo-liberal rev-o-lu-tion.  \OT1/ppl/m/it/1
+2 Cul-tural Stud-ies\OT1/ppl/m/n/12 , 6:705--728,
+ []
+
+[11
+
+
+])
+
+Package natbib Warning: There were undefined citations.
+
+[12]
 \tf@toc=\write5
 \openout5 = `DissText-Latex.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (./DissText-Latex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `DissText-Latex.out' has not changed.
-(rerunfilecheck)             Checksum: D92A6B4472C81EA6A6DBFEEE5B0BB460;280.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
+(rerunfilecheck)             Checksum: 7E84559DECB1607E4584BFD18E8CDBF1;484.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 10067 strings out of 480608
- 146973 string characters out of 5903631
- 459226 words of memory out of 5000000
- 25804 multiletter control sequences out of 15000+600000
+ 10117 strings out of 480608
+ 147747 string characters out of 5903631
+ 463751 words of memory out of 5000000
+ 25837 multiletter control sequences out of 15000+600000
  545954 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,37p,2030b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,37p,2065b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on DissText-Latex.pdf (8 pages, 86627 bytes).
+Output written on DissText-Latex.pdf (14 pages, 109982 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 185 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 

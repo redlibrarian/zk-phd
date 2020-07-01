@@ -3,44 +3,52 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: DissText-Latex.aux
 The style file: plainnat.bst
 Database file #1: Bibliography.bib
-You've used 14 entries,
+Warning--I didn't find a database entry for "taylor-1989"
+Warning--I didn't find a database entry for "Taylor-1991"
+Warning--I didn't find a database entry for "kymlicka-citizenship"
+Warning--I didn't find a database entry for "taylor-1992"
+Warning--I didn't find a database entry for "honneth-1995"
+Warning--I didn't find a database entry for "fraser-1997"
+Warning--I didn't find a database entry for "tully-1995"
+You've used 23 entries,
             2773 wiz_defined-function locations,
-            671 strings with 6677 characters,
-and the built_in function-call counts, 4875 in all, are:
-= -- 391
-> -- 186
-< -- 15
-+ -- 69
-- -- 55
-* -- 285
-:= -- 773
-add.period$ -- 44
-call.type$ -- 14
-change.case$ -- 48
-chr.to.int$ -- 14
-cite$ -- 28
-duplicate$ -- 307
-empty$ -- 503
-format.name$ -- 71
-if$ -- 1044
+            729 strings with 7859 characters,
+and the built_in function-call counts, 8000 in all, are:
+= -- 652
+> -- 295
+< -- 25
++ -- 110
+- -- 87
+* -- 467
+:= -- 1264
+add.period$ -- 72
+call.type$ -- 23
+change.case$ -- 79
+chr.to.int$ -- 23
+cite$ -- 46
+duplicate$ -- 500
+empty$ -- 827
+format.name$ -- 114
+if$ -- 1717
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 24
-newline$ -- 78
-num.names$ -- 59
-pop$ -- 167
+missing$ -- 39
+newline$ -- 123
+num.names$ -- 97
+pop$ -- 266
 preamble$ -- 1
-purify$ -- 45
+purify$ -- 73
 quote$ -- 0
-skip$ -- 196
+skip$ -- 321
 stack$ -- 0
-substring$ -- 97
-swap$ -- 30
-text.length$ -- 2
+substring$ -- 185
+swap$ -- 49
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 99
+type$ -- 168
 warning$ -- 0
-while$ -- 48
+while$ -- 80
 width$ -- 0
-write$ -- 180
+write$ -- 292
+(There were 7 warnings)
