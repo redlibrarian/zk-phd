@@ -1,121 +1,98 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{22}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Bracke(2009)]{bracke-2009}
-Maud~Anne Bracke.
-\newblock May 1968 and algerian immigrants in france: Trajectories of
-  mobilization and encounter.
-\newblock In Gurminder~K Bhambra and Ipek Demir, editors, \emph{1968 in
-  Retrospect: History, Theory, Alterity}, pages 115--130. Palgrave Macmillan,
-  2009.
+\bibitem[Bacevic(2020)]{Bacevic2020}
+Jana Bacevic.
+\newblock No such thing as society? liberal paternalism, politics of expertise
+  and the corona crisis.
+\newblock \emph{Discovery Society}, 2020.
 
-\bibitem[Cornell et~al.(1992)Cornell, Rosenfeld, and
-  Carlson]{CornellRosenfeldCarleson1992}
-Drusilla Cornell, Michael Rosenfeld, and David~Gray Carlson, editors.
-\newblock \emph{Deconstruction and the Possibility of Justice}.
-\newblock Psychology Press, 1992.
+\bibitem[Caffentzis(2013)]{caffentzis-letters}
+George Caffentzis.
+\newblock \emph{In Letters of Blood and Fire: Work, Machines and the Crisis of
+  Capitalism}.
+\newblock PM Press, 2013.
 
-\bibitem[Coulthard(2014)]{coulthard2014}
-Glen~Sean Coulthard.
-\newblock \emph{Red Skin White Masks: Rejecting the Colonial Politics of
-  Recognition}.
-\newblock University of Minnesota Press, 2014.
+\bibitem[Deleuze(1992)]{Deleuze1992}
+Gilles Deleuze.
+\newblock Postscript on the societies of control.
+\newblock \emph{October}, 59:\penalty0 3--7, Winter 1992.
 
-\bibitem[Fraser(1997)]{fraser-justice}
-Nancy Fraser.
-\newblock \emph{Justice Interruptus: Critical Reflections on the
-  "Postsocialist" Condition}.
-\newblock Routledge, 1997.
+\bibitem[Dworkin(1978)]{Dworkin1978}
+Ronald Dworkin.
+\newblock Liberalism.
+\newblock In Stuart Hampshire, editor, \emph{Public and Private Morality}.
+  Cambridge University Press, 1978.
 
-\bibitem[Fraser and Honneth(2003)]{fraser-honneth}
-Nancy Fraser and Axel Honneth.
-\newblock \emph{Redistribution or Recognition? A Political-Philosophical
-  Exchange}.
-\newblock Verso, 2003.
+\bibitem[Dyer-Witheford(2015)]{DyerWitheford2015}
+Nick Dyer-Witheford.
+\newblock \emph{Cyber-Proletariat: Global Labour in the Digital Vortex}.
+\newblock Between the Lines, 2015.
 
-\bibitem[Gali{\v s}anka(2019)]{Galisanka2019}
-Andrius Gali{\v s}anka.
-\newblock \emph{John Rawls: The Path to a Theory of Justice}.
-\newblock Harvard University Press, 2019.
+\bibitem[Joque(2019)]{Joque2019}
+Justin Joque.
+\newblock Chances are: The bayesian revolution ties knowledge to its material
+  value.
+\newblock \emph{Real Life}, 2019.
 
-\bibitem[Hall(25)]{hall-2011}
-Stuart Hall.
-\newblock The neo-liberal revolution.
-\newblock \emph{Cultural Studies}, 6:\penalty0 705--728,
-  https://doi.org/10.1080/09502386.2011.619886 25.
+\bibitem[Kalpokas(2019)]{Kalpokas2019}
+Ignas Kalpokas.
+\newblock \emph{Algorithmic Governance: Politics and Law in the Post-Human
+  Era}.
+\newblock Palgrave, 2019.
 
-\bibitem[Hardt and Negri(2004)]{HardtNegri2004}
-Michael Hardt and Antonio Negri.
-\newblock \emph{Multitude: War and Democracy in the Age of Empire}.
-\newblock Penguin Books, 2004.
-
-\bibitem[Harvey(2005)]{harvey-2005}
-David Harvey.
-\newblock \emph{A Brief History of Neoliberalism}.
-\newblock Oxford University Press, 2005.
-
-\bibitem[Hegel(1977)]{Hegel1977}
-G.W.F Hegel.
-\newblock \emph{The Difference Between Fichte's and Schelling's System of
-  Philosophy}.
-\newblock State University of New York Press, 1977.
-
-\bibitem[Hegel(1979)]{Hegel1979}
-G.W.F Hegel.
-\newblock \emph{System of Ethical Life and First Philosophy of Spirit}.
-\newblock State University of New York Press, 1979.
-
-\bibitem[Hines(2013)]{Hines2013}
-Sally Hines.
-\newblock \emph{Gender Diversity, Recognition and Citizenship: Towards a
-  Politics of Difference}.
-\newblock Palgrave Macmillan, 2013.
-
-\bibitem[Honneth(1995)]{honneth-struggle}
-Axel Honneth.
-\newblock \emph{The Struggle for Recognition: The Moral Grammar of Social
-  Conflicts}.
-\newblock MIT Press, 1995.
-
-\bibitem[Jameson(1991)]{Jameson1991}
-Fredric Jameson.
-\newblock \emph{Postmodernism, or, the Cultural Logic of Late Capitalism}.
-\newblock Duke University Press, 1991.
-
-\bibitem[Karim(2002)]{karim2002}
-Karim~H. Karim.
-\newblock The multiculturalism debate in canadian newspapers: The harbinger of
-  a political storm?
-\newblock \emph{Journal of International Migration and Integration},
-  3:\penalty0 439--455, 2002.
-
-\bibitem[Kymlicka(1996)]{kymlicka-1995}
+\bibitem[Kymlicka(1989)]{Kymlicka1989b}
 Will Kymlicka.
-\newblock \emph{Multicultural Citizenship: A Liberal Theory of Minority
-  Rights}.
-\newblock Clarendon, 1996.
+\newblock Liberal individualism and liberal neutrality.
+\newblock \emph{Ethics}, 99:\penalty0 883--905, 1989.
 
-\bibitem[Patten(2014)]{patten-2014}
-Alan Patten.
-\newblock \emph{Equal Recognition: The Moral Foundations of Minority Rights}.
-\newblock Princeton University Press, 2014.
+\bibitem[Lazzarato(2012)]{Lazzarato2012}
+Maurizio. Lazzarato.
+\newblock \emph{The Making of the Indebted Man: An Essay on the Neoliberal
+  Condition}.
+\newblock Semiotext(e), 2012.
 
-\bibitem[Singh(2014)]{singh-recognition}
-Jakeet Singh.
-\newblock Recognition and self-determination: Approaches from above and below.
-\newblock In Avigail Eisenberg, Jeremy Webber, Glen Coulthard, and Andr{\'e}e
-  Boisselle, editors, \emph{Recognition versus Self-Determination: Dilemmas of
-  Emancipation}, pages 47--74. UBC Press, 2014.
+\bibitem[Marx(1955)]{Marx1955}
+Karl Marx.
+\newblock \emph{The Poverty of Philosophy}.
+\newblock Progress Publishers, 1955.
 
-\bibitem[Singh(2018)]{singh-democracy}
-Jakeet Singh.
-\newblock Decolonizing radical democracy.
-\newblock \emph{Contemporary Political Theory}, 18\penalty0 (3):\penalty0
-  331--356, 2018.
+\bibitem[Marx(1973)]{Marx1973}
+Karl Marx.
+\newblock \emph{Grundrisse}.
+\newblock Penguin Books, 1973.
+
+\bibitem[Moore(2017)]{Moore2017}
+Phoebe~V. Moore.
+\newblock \emph{The Quantified Self in Precarity: Work, Technology and What
+  Counts}.
+\newblock Routledge, 2017.
+
+\bibitem[Negri(1989)]{Negri1989}
+Antonio Negri.
+\newblock \emph{The Politics of Subversion: A Manifesto for the Twenty-First
+  Century}.
+\newblock Polity, 1989.
+
+\bibitem[Parisi(2015)]{Parisi2015}
+Luciana Parisi.
+\newblock Instrumental reason, algorithmic capitalism, and the incomputable.
+\newblock In Matteo Pasquinelli, editor, \emph{Alleys of Your Mind: Augmented
+  Intelligence Traumas}, chapter~7, pages 125--138. Meson Press, 2015.
+
+\bibitem[Rawls(2005)]{Rawls2005}
+John Rawls.
+\newblock \emph{Theory of Justice: Original Edition}.
+\newblock Harvard University Press, 2005.
+
+\bibitem[Sandel(1984)]{Sandel1984}
+Michael~J. Sandel.
+\newblock The procedural republic and the unencumbered self.
+\newblock \emph{Political Theory}, 12\penalty0 (1):\penalty0 81--96, 1984.
 
 \bibitem[Spade(2015)]{Spade2015}
 Dean Spade.
@@ -123,20 +100,32 @@ Dean Spade.
   and the Limits of Law}.
 \newblock Duke University Press, 2015.
 
-\bibitem[Taylor(1985)]{Taylor1985}
-Charles Taylor.
-\newblock Atomism.
-\newblock In \emph{Philosophical Papers, Volume 2: Philosophy and the Human
-  Sciences}, pages 187--210. Cambridge University Press, 1985.
+\bibitem[Srnicek(2016)]{Srnicek2016}
+Nick Srnicek.
+\newblock \emph{Platform Capitalism}.
+\newblock Polity, 2016.
 
-\bibitem[Taylor(1992)]{Taylor1992}
+\bibitem[Taylor(1994)]{Taylor1994}
 Charles Taylor.
-\newblock \emph{Multiculturalism and 'The Politics of Recognition': An Essay}.
-\newblock Princeton University Press, 1992.
+\newblock \emph{Multiculturalism: Exploring the Politics of Recognition}.
+\newblock Princeton University Press, 1994.
 
-\bibitem[Virno(2004)]{Virno2004}
-Paolo Virno.
-\newblock \emph{A Grammar of the Multitude}.
-\newblock Semiotext(e), 2004.
+\bibitem[Turing(1937)]{Turing1936}
+A.M. Turing.
+\newblock On computable numbers, with an application to the
+  entscheidungsproblem.
+\newblock \emph{Proceedings of the London Mathematical Society}, 42\penalty0
+  (1):\penalty0 230--65, 1937.
+
+\bibitem[Turing(1950)]{Turing1950}
+A.M. Turing.
+\newblock Computing machinery and intelligence.
+\newblock \emph{Mind}, LIX\penalty0 (236):\penalty0 433--460, 1950.
+
+\bibitem[Zuboff(2019)]{Zuboff2019}
+Shoshana Zuboff.
+\newblock \emph{The Age of Surveillance Capitalism: The Fight for a Human
+  Future at the New Frontier of Power}.
+\newblock PublicAffairs, 2019.
 
 \end{thebibliography}

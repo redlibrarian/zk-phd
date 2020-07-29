@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-06-30 15:27:47 -0600" ModID="6F5710CA-6143-4A95-842C-9DBEA9684F25">
+<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-07-29 14:55:25 -0600" ModID="50C352F5-E58F-4653-A9DA-941FFE1AA49A">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
             <Title>Non-Fiction Format for LaTeX</Title>
@@ -24,59 +24,9 @@
             <Children>
                 <BinderItem UUID="B3FA34AA-D3C9-4AD8-B528-95A266FBB090" Type="Folder" Created="2020-05-29 13:04:11 -0600" Modified="2020-06-02 08:53:34 -0600">
                     <Title>Introduction: Resurgence of the People</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <Children>
-                        <BinderItem UUID="13204C02-03B5-4014-99B1-4F2CB0C46A05" Type="Text" Created="2020-06-28 05:29:40 -0600" Modified="2020-06-28 12:15:17 -0600">
-                            <Title>The Politics of Recognition: Cultural Diversity and Identity Politics</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>10440,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="F85CCFFA-CD43-471B-8482-88AE76FEEB1D" Type="Text" Created="2020-06-28 12:15:22 -0600" Modified="2020-06-30 15:14:12 -0600">
-                            <Title>Hegel and the Ethical Unification of the People</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>4894,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="55F6835A-7F03-485B-9F72-7AD50DDCA139" Type="Text" Created="2020-06-03 11:52:52 -0600" Modified="2020-06-30 15:27:17 -0600">
-                            <Title>The Multicultural Context of the Canadian Politics of Recognition</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>5200,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="136B69B3-0ED8-4EB2-B1BD-41C3DACCA89C" Type="Text" Created="2020-06-03 11:53:27 -0600" Modified="2020-06-03 11:53:32 -0600">
-                            <Title>Literature Review</Title>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="D3E6C34D-BD7A-439A-A32C-5E2F1EA3F900" Type="Text" Created="2020-06-03 11:53:40 -0600" Modified="2020-06-03 11:53:52 -0600">
-                            <Title>A Marxist Critique of the Politics of Recognition</Title>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="B480F407-271D-49C0-83E1-CA1C011376DA" Type="Text" Created="2020-06-03 11:54:01 -0600" Modified="2020-06-03 11:54:08 -0600">
-                            <Title>Explanation of Case Studies and Outline</Title>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
                 </BinderItem>
                 <BinderItem UUID="6370D150-AE68-46EE-8237-BC1AC338770D" Type="Folder" Created="2020-05-29 13:04:46 -0600" Modified="2020-06-02 08:53:38 -0600">
                     <Title>Factories of Subjectivity</Title>
@@ -119,6 +69,26 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8B3C079A-C9E6-4206-AF3C-EFAE51C40780" Type="Folder" Created="2020-07-29 14:53:18 -0600" Modified="2020-07-29 14:53:20 -0600">
+                    <Title>Papers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="58F3574F-F8EC-4014-9865-88A7E9CD24A1" Type="Text" Created="2020-07-29 10:37:03 -0600" Modified="2020-07-29 14:55:25 -0600">
+                            <Title>Algorithms, Procedures, and Constituent Power</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -527,6 +497,103 @@
                         <TextSelection>0,4224</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="13204C02-03B5-4014-99B1-4F2CB0C46A05" Type="Text" Created="2020-06-28 05:29:40 -0600" Modified="2020-07-01 09:55:03 -0600">
+                    <Title>The Politics of Recognition: Cultural Diversity and Identity Politics</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,13790</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F85CCFFA-CD43-471B-8482-88AE76FEEB1D" Type="Text" Created="2020-06-28 12:15:22 -0600" Modified="2020-07-25 09:26:46 -0600">
+                    <Title>Hegel and the Ethical Unification of the People</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,5118</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="55F6835A-7F03-485B-9F72-7AD50DDCA139" Type="Text" Created="2020-06-03 11:52:52 -0600" Modified="2020-07-02 19:35:24 -0600">
+                    <Title>The Multicultural Context of the Canadian Politics of Recognition</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,9290</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="885A5E6D-CC6B-4711-B930-A2C3B1D5BE6F" Type="Text" Created="2020-07-01 09:59:15 -0600" Modified="2020-07-01 10:23:31 -0600">
+                    <Title>"Non-Cultural" Identity and the Limits of Recognition</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,3609</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B3E25E26-B112-4D22-A0B9-63D97F60E21D" Type="Text" Created="2020-07-01 10:31:29 -0600" Modified="2020-07-01 10:31:43 -0600">
+                    <Title>Intellectual Freedom and The Politics of Recognition</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="136B69B3-0ED8-4EB2-B1BD-41C3DACCA89C" Type="Text" Created="2020-06-03 11:53:27 -0600" Modified="2020-06-03 11:53:32 -0600">
+                    <Title>Literature Review</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D3E6C34D-BD7A-439A-A32C-5E2F1EA3F900" Type="Text" Created="2020-06-03 11:53:40 -0600" Modified="2020-06-03 11:53:52 -0600">
+                    <Title>A Marxist Critique of the Politics of Recognition</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B480F407-271D-49C0-83E1-CA1C011376DA" Type="Text" Created="2020-06-03 11:54:01 -0600" Modified="2020-06-03 11:54:08 -0600">
+                    <Title>Explanation of Case Studies and Outline</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7196D2E9-FC15-46BF-9A6B-31A209ACD766" Type="Text" Created="2020-07-25 08:34:51 -0600" Modified="2020-07-25 09:23:27 -0600">
+                    <Title>Liberal-Communitarian Debate and Constituent Power</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,5014</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EE0F58DC-0324-4C5F-9C6D-0582E6DC166E" Type="Text" Created="2020-07-29 10:36:39 -0600" Modified="2020-07-29 10:36:39 -0600">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7A29F912-00CE-4850-9C3B-C69772326F6D" Type="Text" Created="2020-07-29 10:36:48 -0600" Modified="2020-07-29 10:36:48 -0600">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="44AAD1A6-8CCC-4811-BBA6-4912D2A37FA7" Type="Folder" Created="2020-07-29 10:36:56 -0600" Modified="2020-07-29 10:36:59 -0600">
+                    <Title>Papers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -619,14 +686,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-01 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="714" Characters="4682" Date="2020-06-30 14:21:00 -0600"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-30 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="6358" Characters="42103" Date="2020-07-29 10:36:28 -0600"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-06-30 00:00:00 -0600">
-        <DraftWordCount>714</DraftWordCount>
-        <DraftCharCount>4682</DraftCharCount>
-        <OtherWordCount>1754</OtherWordCount>
-        <OtherCharCount>11747</OtherCharCount>
+    <RecentWritingHistory Date="2020-07-29 00:00:00 -0600">
+        <DraftWordCount>6358</DraftWordCount>
+        <DraftCharCount>42103</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>BB89721F-361D-4DC6-B9DC-70E2BE85968E</TemplateFolderUUID>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
