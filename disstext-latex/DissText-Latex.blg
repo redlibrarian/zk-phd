@@ -3,48 +3,48 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: DissText-Latex.aux
 The style file: plainnat.bst
 Database file #1: Bibliography.bib
-Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Mackinnon2018"
-Warning--I didn't find a database entry for "Negri1999"
-You've used 22 entries,
+Warning--to sort, need author, editor, or key in Taylor1991
+Warning--empty author and editor in Taylor1991
+Warning--empty note in TheobaldDinkelman1995
+You've used 36 entries,
             2773 wiz_defined-function locations,
-            736 strings with 7384 characters,
-and the built_in function-call counts, 7175 in all, are:
-= -- 589
-> -- 228
-< -- 24
-+ -- 90
-- -- 68
-* -- 410
-:= -- 1150
-add.period$ -- 68
-call.type$ -- 22
-change.case$ -- 75
-chr.to.int$ -- 22
-cite$ -- 44
-duplicate$ -- 456
-empty$ -- 765
-format.name$ -- 90
-if$ -- 1522
-int.to.chr$ -- 1
+            792 strings with 9015 characters,
+and the built_in function-call counts, 12053 in all, are:
+= -- 995
+> -- 419
+< -- 37
++ -- 161
+- -- 124
+* -- 713
+:= -- 1904
+add.period$ -- 111
+call.type$ -- 36
+change.case$ -- 125
+chr.to.int$ -- 35
+cite$ -- 76
+duplicate$ -- 756
+empty$ -- 1261
+format.name$ -- 163
+if$ -- 2575
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 35
-newline$ -- 118
-num.names$ -- 92
-pop$ -- 234
+missing$ -- 55
+newline$ -- 187
+num.names$ -- 147
+pop$ -- 391
 preamble$ -- 1
-purify$ -- 66
+purify$ -- 111
 quote$ -- 0
-skip$ -- 282
+skip$ -- 478
 stack$ -- 0
-substring$ -- 156
-swap$ -- 33
-text.length$ -- 2
+substring$ -- 263
+swap$ -- 64
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 177
-warning$ -- 0
-while$ -- 75
+type$ -- 286
+warning$ -- 3
+while$ -- 120
 width$ -- 0
-write$ -- 279
+write$ -- 450
 (There were 3 warnings)

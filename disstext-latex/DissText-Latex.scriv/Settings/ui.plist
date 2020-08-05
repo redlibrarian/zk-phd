@@ -91,7 +91,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {223, 697}}</string>
-		<string>{{224, 0}, {975, 697}}</string>
+		<string>{{224, 0}, {875, 697}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -331,6 +331,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>D82B7F8C-2DA5-4CBF-B088-94D4C1C0E900</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>DD0999B7-C097-46DF-8489-02F562CEE538</key>
 		<dict>
 			<key>Row</key>
@@ -426,8 +431,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {711, 697}}</string>
-		<string>{{712, 0}, {263, 697}}</string>
+		<string>{{0, 0}, {611, 697}}</string>
+		<string>{{612, 0}, {263, 697}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>253.5</real>
@@ -504,7 +509,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>394 158 1199 719 0 0 1440 877 </string>
+	<string>-103 158 1099 719 0 0 1440 877 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -602,7 +607,7 @@
 		<real>84</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 641}}</string>
+	<string>{{0, 3316}, {620, 641}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

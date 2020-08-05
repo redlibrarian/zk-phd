@@ -5,10 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Tay(1991)]{Taylor1991}
-\emph{The Malaise of Modernity}.
-\newblock House of Anansi, 1991.
-
 \bibitem[B{\'e}langer(2000)]{Belanger2000}
 Claude B{\'e}langer.
 \newblock Jean lesage and the quiet revolution (1960-1966).
@@ -168,6 +164,11 @@ Charles Taylor.
 Charles Taylor.
 \newblock \emph{Sources of the Self: The Making of Modern Identity}.
 \newblock Harvard University Press, 1989.
+
+\bibitem[Taylor(1991)]{Taylor1991}
+Charles Taylor.
+\newblock \emph{The Malaise of Modernity}.
+\newblock House of Anansi, 1991.
 
 \bibitem[Taylor(1992)]{Taylor1992}
 Charles Taylor.

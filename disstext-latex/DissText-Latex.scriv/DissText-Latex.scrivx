@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-07-29 14:55:25 -0600" ModID="50C352F5-E58F-4653-A9DA-941FFE1AA49A">
+<ScrivenerProject Identifier="46EB8633-8F5C-4FBA-94DB-F95005C758E7" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="calatayud" Author="redlibrarian" Modified="2020-08-05 08:16:54 -0600" ModID="1D66F1A0-D145-4E15-AC23-ED0AAC374E35">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2020-06-02 08:15:35 -0600" Modified="2020-06-02 08:15:35 -0600">
             <Title>Non-Fiction Format for LaTeX</Title>
@@ -81,6 +81,12 @@
                     <Children>
                         <BinderItem UUID="58F3574F-F8EC-4014-9865-88A7E9CD24A1" Type="Text" Created="2020-07-29 10:37:03 -0600" Modified="2020-07-29 14:55:25 -0600">
                             <Title>Algorithms, Procedures, and Constituent Power</Title>
+                            <TextSettings>
+                                <TextSelection>16719,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D82B7F8C-2DA5-4CBF-B088-94D4C1C0E900" Type="Text" Created="2020-08-01 09:50:08 -0600" Modified="2020-08-05 08:16:27 -0600">
+                            <Title>The Liberal-Communitarian Debate</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -686,12 +692,12 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-30 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="6358" Characters="42103" Date="2020-07-29 10:36:28 -0600"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-08-06 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="571" Characters="3930" Date="2020-08-05 07:24:34 -0600"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-29 00:00:00 -0600">
-        <DraftWordCount>6358</DraftWordCount>
-        <DraftCharCount>42103</DraftCharCount>
+    <RecentWritingHistory Date="2020-08-05 00:00:00 -0600">
+        <DraftWordCount>244</DraftWordCount>
+        <DraftCharCount>1730</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

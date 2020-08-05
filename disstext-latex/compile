@@ -1,6 +1,6 @@
 !#/bin/sh
 
-pdflatex DissText-Latex
-bibtex DissText-Latex
-pdflatex DissText-Latex
-pdflatex DissText-Latex
+pdflatex $1
+bibtex $1
+pdflatex $1
+pdflatex $1
