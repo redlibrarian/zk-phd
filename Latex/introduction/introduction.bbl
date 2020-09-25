@@ -1,0 +1,69 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Mon()]{MonkmanBiography}
+URL \url{https://www.kentmonkman.com/biography}.
+
+\bibitem[Boltanski and Chiarello(2005)]{BoltanskiChiarello2005}
+Luc Boltanski and Eve Chiarello.
+\newblock \emph{The New Spirit of Capitalism}.
+\newblock Verso, 2005.
+
+\bibitem[Elston(2012)]{Elston2012}
+M.~Melissa Elston.
+\newblock Subverting visual discourses of gender and geography: Kent monkman's
+  revised iconography of the american west.
+\newblock \emph{Journal of American Culture}, 35\penalty0 (2):\penalty0
+  181--190, 2012.
+
+\bibitem[Marx and Engels(1976)]{MarxEngels1976}
+Karl Marx and Frederick Engels.
+\newblock \emph{The German Ideology}.
+\newblock Progress Publishers, 1976.
+
+\bibitem[Meynell(2011)]{Meynell2011}
+Robert Meynell.
+\newblock \emph{Canadian Idealism and the Philosophy of Freedom : C.B.
+  Macpherson, George Grant, and Charles Taylor}.
+\newblock Queen's-McGill University Press, 2011.
+
+\bibitem[Moore(2016)]{Moore2016}
+Jason~W. Moore, editor.
+\newblock \emph{Anthropocene or Capitalocene? Nature, History and the Crisis of
+  Capitalism}.
+\newblock PM Press, 2016.
+
+\bibitem[Palmater(2020)]{Palmater2020}
+Pam Palmater.
+\newblock Mi'kmaw treaty rights, reconciliation and the `rule of law'.
+\newblock \emph{Canadian Dimension}, 2020.
+
+\bibitem[Sibley(2008)]{Sibley2008}
+Robert Sibley.
+\newblock \emph{Northern Spirits John Watson, George Grant, and Charles Taylor
+  - Appropriations of Hegelian Political Thought}.
+\newblock McGill-Queen's University Press, 2008.
+
+\bibitem[Tully(1995)]{Tully1995}
+James Tully.
+\newblock \emph{Strange Multiplicity: Constitutionalism in an Age of
+  Diversity}.
+\newblock Cambridge University Press, 1995.
+
+\bibitem[Tully(2008)]{Tully2008}
+James Tully.
+\newblock The imperialism of modern constitutional democracy.
+\newblock In Martin Loughlin and Neil Walker, editors, \emph{The Paradox of
+  Constitutionalism: Constituent Power and Constitutional Form}, chapter~16,
+  pages 315--338. Oxford University Press, 2008.
+
+\bibitem[Wittgenstein(2009)]{Wittgenstein2009}
+Ludwig Wittgenstein.
+\newblock \emph{Philosophical Investigations}.
+\newblock Wiley-Blackwell, 2009.
+
+\end{thebibliography}

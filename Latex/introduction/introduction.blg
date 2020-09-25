@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: introduction.aux
+The style file: plainnat.bst
+Database file #1: ../Bibliography.bib
+Warning--entry type for "MonkmanBiography" isn't style-file defined
+--line 60 of file ../Bibliography.bib
+Warning--to sort, need author or key in MonkmanBiography
+Warning--empty year in MonkmanBiography
+Warning--can't use both author and editor fields in Wittgenstein2009
+You've used 11 entries,
+            2773 wiz_defined-function locations,
+            660 strings with 6373 characters,
+and the built_in function-call counts, 3701 in all, are:
+= -- 300
+> -- 131
+< -- 12
++ -- 49
+- -- 38
+* -- 222
+:= -- 566
+add.period$ -- 32
+call.type$ -- 11
+change.case$ -- 37
+chr.to.int$ -- 11
+cite$ -- 26
+duplicate$ -- 230
+empty$ -- 391
+format.name$ -- 52
+if$ -- 795
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 16
+newline$ -- 61
+num.names$ -- 43
+pop$ -- 126
+preamble$ -- 1
+purify$ -- 34
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 72
+swap$ -- 22
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 86
+warning$ -- 3
+while$ -- 34
+width$ -- 0
+write$ -- 137
+(There were 4 warnings)
