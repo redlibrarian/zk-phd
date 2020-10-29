@@ -1,46 +1,21 @@
-Constituent Power and the Politics of Recognition: The Case of Intellectual Freedom in Canadian Libraries.
+1. Introduction: Resurgence of the People
 
-Possible epigraphs:
+Part One: An Autonomist Critique of the Politics of Recognition
 
-“… while it is important not to overstate and oversimplify the idea that public libraries in their early phase operated as mechanisms of social control, where middle-class reformers and librarians imposed their culture on a ‘distanced’ working-class clientele, it is none the less a matter of historical fact that, generally speaking, an appreciation of plebeian cultural networks and popular culture was overshadowed by the need to propagate establishment, ‘acceptable’ forms of cultural production and political belief.” Black, Pepper, Bagshaw, Books, Buildings and Social Engineering.
+2. Towards a Contrapuntal Reading of History and Political Theory.
+	Said, Morefield, Canadian History (Shipley), Publication histories of 	Taylor and Tully.
+3. Factories of Subjectivity: Theories of Identity and Individualism.
+	Taylor, Honneth, Hegel, Negri, Spinoza
 
-“They were convinced that the reading of good literature would correct social perspective and reinforce the socially found values that they held in such high esteem.” Wiegand, The Politics of an Emerging Profession, p. 230.
+4. Language Games, Potential, and Power in Constitutional Theory.
+	Tully, Wittgenstein, Negri, Spinoza
 
-“The contemporary state is above all control over social labour and organization of living labour.” Negri, “Rereading Hegel, the Philosopher of Right”.
+Part Two: The Right Kind of Citizen: Constituent Power and Intellectual Freedom in Canadian Libraries.
 
+5. Introduction: Intellectual Freedom and Social Responsibility.
+	Intellectual freedom, information ethics.
+	
+7. The Right Gender: Minority Rights, Free Speech, and Transphobia at Toronto Public Library.
+8. The Right Race: Indigenous Dispossession and Security at Winnipeg Public Library.
 
-Contents [[Outline Writeup June 26 2020]]
-
-1. [[Introduction]]: Resurgence of the People
-	- The political context of Canadian multiculturalism/politics of recognition theory.
-	- Literature review… [[Canada multiculturalism 1990s]]
-		- [[communitarian-liberalism debate]]
-		- [[Politics of Recognition and its Critique.]]
-	- The need for a Marxist critique of the politics of recognition (draw on Singh and radical democracy here). Identity politics, [[Marxist Subjectivity]],  [[Radical Democracy]]
-	- Two strands of that critique: of individualism and of idealism.
-		- [[Gramsci - Intellectuals]]
-		- Even the communitarians have an individualistic understanding of subject-formation (see [[joseph-note]]).
-	- Proposed benefit: to bring together the different “local” critiques, e.g. Coulthard’s, Fraser’s, etc.
-	- Decision to use Canadian librarianship as Case Study.
-
-Part One: Towards a Marxist Politics of Recognition
-
-2. [[Factories of Subjectivity]]: Theories of Identity and the Politics of Recognition
-	- [[Philosophy of Recognition]]
-3. [[Free, Informed Choice]]:: Constitutional Theory and Intellectual Freedom
-4. [[The Dialectic of Virtue and Fortune]]: A Negrean Critique of Intellectual Freedom
-
-Part Two: The Right Kind of Citizen - Constituent Power and Intellectual Freedom in Canadian Libraries.
-
-Introduction… [[Librarianship and Hegemony]], [[The Politics of Intellectual Freedom]]
-5. [[The Right Gender]]: Minority Rights, Free Speech, and Transphobia at Toronto Public Library
- 	- [[Dean Spade - Normal Life]]
-6. [[The Right Race]]: Indigenous Dispossession and Security at Winnipeg Public Library
-	- Coulthard
-7. [[The Right Class]]: Workplace Speech, Precarity, and Crisis
-
-8. [[Conclusion]]: Una cultura ancora offensiva
-
-
-
-Link back to [[Overall Structure Note]]
+8. Conclusion: Una cultura ancora offensiva.

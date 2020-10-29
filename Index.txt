@@ -1,4 +1,5 @@
 Philosophy
+[[John Rawls]]
 [[Charles Taylor]]
 [[James Tully]]
 [[Spinoza - General]]
@@ -7,6 +8,7 @@ Philosophy
 [[Hegel - General]]
 [[Epistemology]]
 [[Subjection]]
+[[Realism]]
 
 History
 [[1968]]

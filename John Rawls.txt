@@ -1,0 +1,20 @@
+Katrina Forrester talks about Hayek’s Road to Serfdom (1944) as a response to big-state liberalism (e.g. the New Deal) and the rising fear of totalitarianism in the early 1940s. The postwar welfare state period was a blip of trust in the big-state and social programs between Hayek’s liberalism and neoliberalism in the 1970s (and of course Hayek is one of the big names of neoliberalism). Rawls’ Theory of Justice bridges this gap - the ideas, in Forrester’s view, were developed in this “small state” Hayekian period, but launched after the blip of the welfare state to inaugurate the neoliberal turn.
+
+In his early life, Rawls tried to balance collectivist and atomist theories in an early form of the politics of recognition:
+
+“Rawls developed a vision of community in which morality was not defined by the state or the pursuit of a highest good, but located in interpersonal human relations. Salvation was not earned through work and action, but through the proper ‘recognition’ of human persons ‘as persons’ - as members of a universal moral community. Against the social contract tradition, with its ‘egotism’ and view of society as the result of ‘bargaining’ between atomized individuals, and against Pelagian moralities based on merit, which rewarded individual actions, Rawls took ‘persons’ as the basic unit of his ethics. He carved a space between collectivist theories, which gave little space to individuals, and individualist ones, which abstracted individuals from their social contexts” \citep[5]{Forrester2019}
+
+So in this view, Rawls took the same approach as Taylor in terms of positioning himself between atomistic and fully collectivist social theory. However, A Theory of Justice was a departure from that communitarian politics, and a “revival of the liberal social contract tradition” (1). Forrester writes that in Rawls’ mature thought, “Society was conceived as a ‘cooperative venture for mutual advantage.’ One benefited more from being in it than outside it.” (1). Marx’s critique of this, of course, is that one can never be “outside” of society.
+
+Rawls looking for “procedures” or a “device” that would be value-free and objective (7-8).
+
+“Rawls already thought that morality was interpersonal, existing in the recognition of other persons as persons in communities. Soon he used Wittgenstein to explain that morality was social, defined by its use - there in the world to be discovered, not chosen.” (9)
+
+Rawls is very close to Taylor: “Having a morality was like having a sense of humor. It was part of what it meant to be human, part of a ‘form of life.’ The phrase was Wittgenstein’s, but Rawls recognized that it was a ‘Hegelian notion.’ He used it to describe morality as a natural phenomenon, continuous with other aspects of life - with ‘natural feelings’ like pity, sympathy, compassion, and the ‘fellow-feelings’. […] Moral principles had to be understood in terms of the moral feelings, like shame, remorse, or guilt, which were responses to breaches in natural interpersonal relations of recognition and ‘part of the way we show our recognition of persons as persons’.” (9). 
+
+Compare Taylor in Sources of the Self: “There seems to be a natural, inborn compunction to inflict death or injury on another, an inclination to come to the help of the injured or endangered. Culture and upbringing may help to define the boundaries of the relevant ‘others’, but they don’t seem to create the basic reaction itself” \citep[5]{Taylor1989}. Forrester: “to fail to differentiate between persons and things was thus a failure of morality” (9).
+
+[#Forrester2019]: Katrina Forrester (2019):  _In the Shadow of Justice: Postwar LIberalism and the Remaking of Political Philosophy_, Princeton University Press.
+
+[#Taylor1989]: Charles Taylor (1989):  _Sources of the Self: The Making of Modern Identity_, Harvard University Press.
+
